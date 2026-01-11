@@ -1,23 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "İSTASYONALTI",
-        "MUSTAFA KEMAL",
-        "SELVİLİTEPE",
-        "SUBAŞI",
-        "YEDİ EYLÜL",
-        "YENİ",
-        "YILDIRIM"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.01.2026 15:00",
-      "end": "10.01.2026 21:00"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
