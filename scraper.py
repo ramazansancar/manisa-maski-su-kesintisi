@@ -67,10 +67,10 @@ def get_outages():
     try:
         driver.get(url)
         
-        # Wait for data to load
+        # Wait for page body instead of specific outage sections (page can show "no outage" state)
         wait = WebDriverWait(driver, 40)
-        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "text-info")))
-        time.sleep(3) # Short wait for rendering
+        wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        time.sleep(2) # Short wait for rendering
         
         soup = BeautifulSoup(driver.page_source, "html.parser")
         outages = []
@@ -113,7 +113,13 @@ def get_outages():
                 }
                 
                 outages.append(outage_entry)
-                
+
+        # If no outage sections exist, check for "no outage" notice and return empty list without raising
+        if not sections:
+            no_outage_msg = soup.find("h2", class_="text-primary")
+            if no_outage_msg and "su kesintisi bulunmamaktadır" in no_outage_msg.get_text(strip=True).lower():
+                return []
+
         return outages
 
     except Exception as e:
