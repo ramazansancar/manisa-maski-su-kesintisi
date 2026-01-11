@@ -1,16 +1,6 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "VEZİROĞLU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.01.2026 10:10",
-      "end": "10.01.2026 12:34"
-    },
     {
       "city": "Manisa",
       "district": "TURGUTLU",
