@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
@@ -38,16 +38,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "10.01.2026 13:39",
       "end": "10.01.2026 16:25"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.01.2026 08:42",
-      "end": "10.01.2026 15:10"
     },
     {
       "city": "Manisa",
