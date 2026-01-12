@@ -3,16 +3,6 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "GÜMÜLCELİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 13:57",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "ULUDERBENT"
@@ -81,6 +71,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "12.01.2026 10:21",
       "end": "12.01.2026 13:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "HACIRAHMANLI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "12.01.2026 19:38",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
