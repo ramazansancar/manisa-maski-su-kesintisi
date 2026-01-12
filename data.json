@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 11,
   "data": [
     {
       "city": "Manisa",
@@ -70,7 +70,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "12.01.2026 09:56",
-      "end": "12.01.2026 10:56"
+      "end": "12.01.2026 14:00"
     },
     {
       "city": "Manisa",
@@ -90,7 +90,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "12.01.2026 11:23",
-      "end": "Süre Verilememekte"
+      "end": "12.01.2026 13:30"
     },
     {
       "city": "Manisa",
@@ -100,6 +100,20 @@
       ],
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "12.01.2026 12:44",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "AKINCILAR",
+        "FATİH",
+        "HACIHAMZA",
+        "KASIMFAKI",
+        "SECAATTİN"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "12.01.2026 15:43",
       "end": "Süre Verilememekte"
     }
   ]
