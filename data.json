@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
@@ -72,20 +72,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 17:23",
       "end": "13.01.2026 18:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 20:42",
-      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
