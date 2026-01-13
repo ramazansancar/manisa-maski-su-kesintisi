@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 11,
   "data": [
     {
       "city": "Manisa",
@@ -109,16 +109,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 12:03",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ŞEHİTLER"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 12:44",
-      "end": "13.01.2026 08:30"
     },
     {
       "city": "Manisa",
