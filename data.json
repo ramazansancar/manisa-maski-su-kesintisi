@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
@@ -30,7 +30,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 11:29",
-      "end": "13.01.2026 12:29"
+      "end": "13.01.2026 14:50"
     },
     {
       "city": "Manisa",
@@ -40,7 +40,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 15:26",
-      "end": "Süre Verilememekte"
+      "end": "13.01.2026 17:20"
     },
     {
       "city": "Manisa",
@@ -61,7 +61,17 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 11:10",
-      "end": "13.01.2026 13:10"
+      "end": "13.01.2026 13:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "13.01.2026 17:23",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -106,7 +116,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 09:28",
-      "end": "13.01.2026 11:28"
+      "end": "13.01.2026 14:00"
     },
     {
       "city": "Manisa",
@@ -118,7 +128,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 11:00",
-      "end": "13.01.2026 16:30"
+      "end": "13.01.2026 14:10"
     },
     {
       "city": "Manisa",
