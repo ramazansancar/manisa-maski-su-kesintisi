@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "data": [
     {
       "city": "Manisa",
@@ -122,13 +122,23 @@
     },
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "13.01.2026 16:36",
+      "end": "13.01.2026 18:36"
+    },
+    {
+      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
         "ATATÜRK"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 12:03",
-      "end": "Süre Verilememekte"
+      "end": "13.01.2026 16:20"
     }
   ]
 }
