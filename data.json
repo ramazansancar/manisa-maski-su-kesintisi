@@ -1,45 +1,15 @@
 {
-  "count": 10,
+  "count": 6,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ULUDERBENT"
-      ],
-      "description": "VANA VE HAT YENILEME CALISMASI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 10:29",
-      "end": "12.01.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "GÖKKAYA"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 10:19",
-      "end": "12.01.2026 10:21"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "İSTASYON"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 09:59",
-      "end": "12.01.2026 12:20"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AKGEDİK"
+        "MURADİYE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 09:43",
-      "end": "12.01.2026 10:15"
+      "start": "13.01.2026 10:06",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -56,22 +26,13 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AKMESCİT",
-        "KAYNAK"
+        "LALAPAŞA",
+        "MUTLU",
+        "TOPÇUASIM"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 09:56",
-      "end": "12.01.2026 14:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "KABAZLI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "12.01.2026 10:21",
-      "end": "12.01.2026 13:00"
+      "start": "13.01.2026 11:00",
+      "end": "13.01.2026 16:30"
     },
     {
       "city": "Manisa",
