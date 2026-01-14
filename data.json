@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 9,
   "data": [
     {
       "city": "Manisa",
@@ -15,6 +15,7 @@
       "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
+        "BEŞEYLÜL",
         "MENDERES",
         "SARISU",
         "YENİ"
@@ -25,27 +26,6 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ÖRENCİK"
-      ],
-      "description": "VANA VE HAT YENILEME CALISMASI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 11:00",
-      "end": "13.01.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKMESCİT",
-        "KAYNAK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 11:29",
-      "end": "13.01.2026 14:50"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "ÇAMLICA"
@@ -53,27 +33,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "13.01.2026 15:26",
       "end": "13.01.2026 17:20"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "DELEMENLER"
-      ],
-      "description": "VANA VE HAT YENILEME CALISMASI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 10:48",
-      "end": "13.01.2026 17:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "UTKU",
-        "ÇARŞI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 11:10",
-      "end": "13.01.2026 13:20"
     },
     {
       "city": "Manisa",
@@ -105,42 +64,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "14.01.2026 09:37",
       "end": "14.01.2026 10:17"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 10:44",
-      "end": "13.01.2026 13:41"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 11:23",
-      "end": "13.01.2026 13:41"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "LALAPAŞA",
-        "MUTLU",
-        "TOPÇUASIM"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 11:00",
-      "end": "13.01.2026 14:10"
     },
     {
       "city": "Manisa",
