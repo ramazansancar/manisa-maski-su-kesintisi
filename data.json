@@ -26,6 +26,19 @@
     },
     {
       "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMA",
+        "HÜRRİYET",
+        "KARAMANLI",
+        "SAMSACI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "14.01.2026 16:22",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "TURGUT ÖZAL"
@@ -74,7 +87,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "14.01.2026 14:52",
-      "end": "14.01.2026 16:52"
+      "end": "14.01.2026 16:34"
     },
     {
       "city": "Manisa",
@@ -84,17 +97,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "14.01.2026 14:38",
-      "end": "14.01.2026 15:38"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "13.01.2026 16:36",
-      "end": "13.01.2026 16:36"
+      "end": "14.01.2026 18:00"
     },
     {
       "city": "Manisa",
