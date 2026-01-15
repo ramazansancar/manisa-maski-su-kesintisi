@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
@@ -67,6 +67,18 @@
     },
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 10:48",
+      "end": "15.01.2026 12:48"
+    },
+    {
+      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "BAKLACI"
@@ -97,6 +109,16 @@
     },
     {
       "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "SEYİTALİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 11:14",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "BARBAROS"
@@ -104,6 +126,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 10:04",
       "end": "15.01.2026 13:04"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "4 EYLÜL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 11:14",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
