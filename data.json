@@ -1,16 +1,6 @@
 {
-  "count": 17,
+  "count": 15,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "İSTASYON"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "14.01.2026 17:03",
-      "end": "14.01.2026 17:50"
-    },
     {
       "city": "Manisa",
       "district": "AKHİSAR",
@@ -63,16 +53,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 14:45",
       "end": "15.01.2026 16:45"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BAKLACI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "14.01.2026 16:48",
-      "end": "14.01.2026 19:00"
     },
     {
       "city": "Manisa",
