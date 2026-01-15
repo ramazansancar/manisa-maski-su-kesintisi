@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "city": "Manisa",
@@ -30,6 +30,16 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 13:20",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "SANCAKLIBOZKÖY"
+      ],
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 19:10",
       "end": "Süre Verilememekte"
     },
     {
