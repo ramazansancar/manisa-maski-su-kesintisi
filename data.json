@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 17,
   "data": [
     {
       "city": "Manisa",
@@ -10,6 +10,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "14.01.2026 14:27",
       "end": "15.01.2026 10:17"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "GÜMÜLCELİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 14:18",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -33,16 +43,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "14.01.2026 16:22",
       "end": "15.01.2026 02:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "14.01.2026 13:35",
-      "end": "15.01.2026 08:52"
     },
     {
       "city": "Manisa",
@@ -75,7 +75,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 10:48",
-      "end": "15.01.2026 12:48"
+      "end": "15.01.2026 13:54"
     },
     {
       "city": "Manisa",
@@ -107,6 +107,18 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 12:28",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "ULUPINAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 13:55",
+      "end": "15.01.2026 15:55"
     },
     {
       "city": "Manisa",
