@@ -89,16 +89,6 @@
     },
     {
       "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "ZAFER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.01.2026 13:14",
-      "end": "14.01.2026 16:50"
-    },
-    {
-      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "ARDA",
@@ -142,11 +132,21 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.01.2026 13:23",
+      "end": "15.01.2026 15:23"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
         "BARBAROS"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 10:04",
-      "end": "15.01.2026 13:04"
+      "end": "15.01.2026 12:47"
     },
     {
       "city": "Manisa",
