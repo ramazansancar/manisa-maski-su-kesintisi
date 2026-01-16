@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 7,
   "data": [
     {
       "city": "Manisa",
@@ -11,16 +11,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "16.01.2026 11:40",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "KAYALIOĞLU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 14:59",
-      "end": "15.01.2026 16:59"
     },
     {
       "city": "Manisa",
@@ -46,31 +36,11 @@
       "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "İSTASYONALTI"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 14:45",
-      "end": "15.01.2026 16:45"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "BEYAZIT",
-        "CUMHURİYET",
-        "DOKTOR MEHMET AKARSU",
-        "HACIBABA",
-        "HACIHASAN",
-        "HACITÜRBEK",
-        "İÇHİSAR",
-        "SİNAN",
-        "SOFULAR",
-        "ÇAMLICA",
-        "ŞEHREKÜSTÜ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 15:38",
-      "end": "15.01.2026 17:48"
+      "start": "16.01.2026 15:10",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
