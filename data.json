@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 13,
   "data": [
     {
       "city": "Manisa",
@@ -44,18 +44,6 @@
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 10:48",
-      "end": "15.01.2026 13:54"
-    },
-    {
-      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "SELVİLİTEPE"
@@ -86,13 +74,23 @@
     },
     {
       "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ERGENEKON"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "16.01.2026 10:35",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "AKGEDİK"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "16.01.2026 08:20",
-      "end": "Süre Verilememekte"
+      "end": "16.01.2026 10:52"
     },
     {
       "city": "Manisa",
@@ -129,16 +127,6 @@
     },
     {
       "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "SEYİTALİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 11:14",
-      "end": "15.01.2026 15:00"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "MURADİYE"
@@ -146,16 +134,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 13:23",
       "end": "15.01.2026 15:28"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 11:14",
-      "end": "15.01.2026 14:40"
     },
     {
       "city": "Manisa",
