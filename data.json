@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "city": "Manisa",
@@ -40,7 +40,7 @@
       ],
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 19:10",
-      "end": "Süre Verilememekte"
+      "end": "15.01.2026 23:00"
     },
     {
       "city": "Manisa",
@@ -83,6 +83,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 15:38",
       "end": "15.01.2026 17:48"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AKGEDİK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "16.01.2026 08:20",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
