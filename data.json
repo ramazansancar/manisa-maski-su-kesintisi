@@ -1,6 +1,20 @@
 {
-  "count": 7,
+  "count": 8,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "REŞAT BEY",
+        "SEYİT AHMET",
+        "ULU CAMİİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "16.01.2026 16:29",
+      "end": "16.01.2026 18:29"
+    },
     {
       "city": "Manisa",
       "district": "SOMA",
