@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 9,
   "data": [
     {
       "city": "Manisa",
@@ -21,17 +21,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 14:59",
       "end": "15.01.2026 16:59"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMA",
-        "HÜRRİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 13:20",
-      "end": "16.01.2026 08:30"
     },
     {
       "city": "Manisa",
@@ -114,16 +103,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "15.01.2026 13:55",
       "end": "15.01.2026 15:55"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "15.01.2026 13:23",
-      "end": "15.01.2026 15:28"
     }
   ]
 }
