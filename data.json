@@ -27,13 +27,15 @@
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "İSTASYONALTI"
+        "FATİH",
+        "İSTASYON",
+        "YENİCE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "16.01.2026 15:10",
-      "end": "16.01.2026 18:00"
+      "start": "17.01.2026 15:19",
+      "end": "17.01.2026 17:20"
     },
     {
       "city": "Manisa",
