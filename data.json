@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -74,6 +74,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "18.01.2026 10:46",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "18.01.2026 12:49",
+      "end": "18.01.2026 13:49"
     }
   ]
 }
