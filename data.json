@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
@@ -23,6 +23,42 @@
     },
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "İNÖNÜ",
+        "PAŞA",
+        "ŞEYHİSA"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 12:04",
+      "end": "19.01.2026 14:04"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MERKEZ EFENDİ",
+        "TEVFİKİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 12:13",
+      "end": "19.01.2026 14:13"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 12:26",
+      "end": "19.01.2026 14:26"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "UNCUBOZKÖY"
@@ -30,6 +66,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "18.01.2026 14:13",
       "end": "18.01.2026 19:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ESEN TEPE"
+      ],
+      "description": "VANA VE HAT YENILEME CALISMASI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 12:01",
+      "end": "19.01.2026 18:00"
     },
     {
       "city": "Manisa",
@@ -84,7 +130,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 09:47",
-      "end": "19.01.2026 11:47"
+      "end": "19.01.2026 11:00"
     },
     {
       "city": "Manisa",
@@ -94,7 +140,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 10:53",
-      "end": "19.01.2026 11:53"
+      "end": "19.01.2026 12:19"
     },
     {
       "city": "Manisa",
