@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "MURADİYE"
+        "ZAFER"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "18.01.2026 14:48",
-      "end": "18.01.2026 18:00"
+      "start": "19.01.2026 15:12",
+      "end": "19.01.2026 16:30"
     },
     {
       "city": "Manisa",
@@ -45,7 +45,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 12:13",
-      "end": "19.01.2026 14:13"
+      "end": "19.01.2026 14:35"
     },
     {
       "city": "Manisa",
@@ -55,7 +55,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 12:26",
-      "end": "19.01.2026 14:26"
+      "end": "19.01.2026 14:45"
     },
     {
       "city": "Manisa",
@@ -79,7 +79,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 09:25",
-      "end": "19.01.2026 12:25"
+      "end": "19.01.2026 12:30"
     },
     {
       "city": "Manisa",
@@ -99,7 +99,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 11:34",
-      "end": "19.01.2026 14:00"
+      "end": "19.01.2026 14:50"
     },
     {
       "city": "Manisa",
@@ -119,7 +119,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 13:48",
-      "end": "19.01.2026 15:48"
+      "end": "19.01.2026 14:49"
     },
     {
       "city": "Manisa",
