@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "data": [
     {
       "city": "Manisa",
@@ -59,16 +59,6 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "UNCUBOZKÖY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "18.01.2026 14:13",
-      "end": "18.01.2026 19:00"
-    },
-    {
-      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "ESEN TEPE"
@@ -110,6 +100,26 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "19.01.2026 11:34",
       "end": "19.01.2026 14:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 13:54",
+      "end": "19.01.2026 15:54"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "İSTASYON"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "19.01.2026 13:48",
+      "end": "19.01.2026 15:48"
     },
     {
       "city": "Manisa",
