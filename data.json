@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 15,
   "data": [
     {
       "city": "Manisa",
@@ -60,53 +60,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "20.01.2026 10:45",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "İNÖNÜ",
-        "PAŞA",
-        "ŞEYHİSA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 12:04",
-      "end": "19.01.2026 14:04"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MERKEZ EFENDİ",
-        "TEVFİKİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 12:13",
-      "end": "19.01.2026 14:35"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 12:26",
-      "end": "19.01.2026 14:45"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ESEN TEPE",
-        "HACIBEY"
-      ],
-      "description": "VANA VE HAT YENILEME CALISMASI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 12:01",
-      "end": "19.01.2026 18:30"
     },
     {
       "city": "Manisa",
