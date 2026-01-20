@@ -1,15 +1,15 @@
 {
-  "count": 13,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "MURADİYE"
+        "DİLEK"
       ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 16:07",
-      "end": "19.01.2026 17:27"
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.01.2026 17:15",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -74,6 +74,16 @@
     },
     {
       "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "EGE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "20.01.2026 16:06",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "AKGEDİK"
@@ -81,6 +91,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "20.01.2026 10:33",
       "end": "20.01.2026 15:43"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "HALITLI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "20.01.2026 16:45",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -114,17 +134,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "20.01.2026 09:07",
       "end": "20.01.2026 10:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "MAREŞAL FEVZİ ÇAKMAK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "19.01.2026 16:18",
-      "end": "19.01.2026 17:20"
     },
     {
       "city": "Manisa",
