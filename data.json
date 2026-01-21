@@ -1,6 +1,16 @@
 {
-  "count": 7,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "ŞEHİTLER"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "21.01.2026 19:23",
+      "end": "21.01.2026 21:30"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -43,6 +53,18 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "21.01.2026 11:14",
       "end": "21.01.2026 13:14"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "21.01.2026 19:41",
+      "end": "21.01.2026 21:41"
     },
     {
       "city": "Manisa",
