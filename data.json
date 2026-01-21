@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 9,
   "data": [
     {
       "city": "Manisa",
@@ -19,6 +19,16 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "21.01.2026 08:20",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "21.01.2026 09:46",
       "end": "Süre Verilememekte"
     },
     {
@@ -64,16 +74,6 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "20.01.2026 10:33",
-      "end": "20.01.2026 15:43"
-    },
-    {
-      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "HALITLI"
@@ -93,16 +93,6 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "20.01.2026 11:06",
-      "end": "20.01.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "GEDİZ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "20.01.2026 09:46",
       "end": "20.01.2026 13:30"
     }
   ]
