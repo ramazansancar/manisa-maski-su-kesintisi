@@ -1,16 +1,6 @@
 {
-  "count": 10,
+  "count": 9,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "DİLEK"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.01.2026 17:15",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
