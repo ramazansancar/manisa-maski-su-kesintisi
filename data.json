@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -10,16 +10,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "21.01.2026 19:23",
       "end": "21.01.2026 21:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "21.01.2026 08:20",
-      "end": "21.01.2026 16:24"
     },
     {
       "city": "Manisa",
@@ -84,7 +74,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "21.01.2026 17:05",
-      "end": "21.01.2026 18:05"
+      "end": "21.01.2026 18:30"
     },
     {
       "city": "Manisa",
