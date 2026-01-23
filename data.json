@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
@@ -37,6 +37,26 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "23.01.2026 08:41",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ÇAMPINAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "23.01.2026 09:30",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "23.01.2026 09:57",
+      "end": "23.01.2026 11:57"
     },
     {
       "city": "Manisa",
