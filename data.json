@@ -1,23 +1,6 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BARIŞ",
-        "BEŞEYLÜL",
-        "FATİH",
-        "İSTASYON",
-        "KURTULUŞ",
-        "MENDERES",
-        "YENİ",
-        "YENİCE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "22.01.2026 14:02",
-      "end": "22.01.2026 18:45"
-    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
