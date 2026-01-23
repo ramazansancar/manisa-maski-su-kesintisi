@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -22,6 +22,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "23.01.2026 15:18",
       "end": "23.01.2026 16:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "23.01.2026 17:29",
+      "end": "23.01.2026 19:29"
     },
     {
       "city": "Manisa",
