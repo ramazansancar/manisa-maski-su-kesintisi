@@ -58,13 +58,13 @@
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "HACI İSHAK"
+        "CUMHURİYET"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "23.01.2026 09:57",
-      "end": "23.01.2026 11:57"
+      "start": "24.01.2026 09:47",
+      "end": "24.01.2026 10:57"
     }
   ]
 }
