@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
@@ -10,19 +10,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "25.01.2026 10:21",
       "end": "25.01.2026 14:04"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BARIŞ",
-        "BEŞEYLÜL",
-        "MENDERES",
-        "YENİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "24.01.2026 14:41",
-      "end": "24.01.2026 16:41"
     },
     {
       "city": "Manisa",
@@ -44,16 +31,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "25.01.2026 09:29",
       "end": "25.01.2026 10:50"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "DURASIL"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "24.01.2026 15:47",
-      "end": "25.01.2026 10:30"
     },
     {
       "city": "Manisa",
@@ -84,7 +61,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "25.01.2026 10:29",
-      "end": "25.01.2026 12:29"
+      "end": "25.01.2026 12:30"
     }
   ]
 }
