@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "city": "Manisa",
@@ -10,6 +10,20 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 04:28",
       "end": "26.01.2026 11:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "FATİH",
+        "KASIMFAKI",
+        "SECAATTİN",
+        "SOFULAR",
+        "YENİCE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "26.01.2026 20:00",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -129,7 +143,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 15:40",
-      "end": "Süre Verilememekte"
+      "end": "26.01.2026 18:57"
     },
     {
       "city": "Manisa",
