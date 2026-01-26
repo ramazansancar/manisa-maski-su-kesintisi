@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 15,
   "data": [
     {
       "city": "Manisa",
@@ -63,7 +63,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 15:36",
-      "end": "26.01.2026 17:36"
+      "end": "26.01.2026 16:24"
     },
     {
       "city": "Manisa",
@@ -73,7 +73,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 14:00",
-      "end": "26.01.2026 17:00"
+      "end": "26.01.2026 16:30"
     },
     {
       "city": "Manisa",
@@ -94,7 +94,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 14:31",
-      "end": "26.01.2026 15:31"
+      "end": "26.01.2026 15:30"
     },
     {
       "city": "Manisa",
@@ -117,6 +117,46 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 15:40",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "KABAKLAR"
+      ],
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "26.01.2026 16:08",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "HAVAOĞLU"
+      ],
+      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "26.01.2026 16:08",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "26.01.2026 16:34",
+      "end": "26.01.2026 16:34"
+    },
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "26.01.2026 16:34",
+      "end": "26.01.2026 16:34"
     }
   ]
 }
