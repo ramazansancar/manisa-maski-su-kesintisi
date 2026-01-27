@@ -40,25 +40,13 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "MENDERES",
-        "SARISU",
-        "ŞEYH SİNAN"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "26.01.2026 12:22",
-      "end": "26.01.2026 14:30"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "AKGEDİK"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "27.01.2026 09:42",
-      "end": "Süre Verilememekte"
+      "end": "27.01.2026 12:06"
     },
     {
       "city": "Manisa",
@@ -172,6 +160,18 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "26.01.2026 16:34",
       "end": "26.01.2026 16:34"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "FATİH",
+        "HACIBEY",
+        "SAKARYA"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "27.01.2026 12:26",
+      "end": "27.01.2026 13:26"
     }
   ]
 }
