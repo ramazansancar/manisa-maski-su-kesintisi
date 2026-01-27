@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "city": "Manisa",
@@ -37,6 +37,20 @@
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "26.01.2026 19:26",
       "end": "27.01.2026 08:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ADAKALE",
+        "BAYINDIRLIK",
+        "GEDİZ",
+        "İSHAKÇELEBI",
+        "KOCATEPE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "27.01.2026 13:54",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -83,11 +97,12 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "BARBAROS"
+        "AYNİ ALİ",
+        "KUYUALAN"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "26.01.2026 14:00",
-      "end": "26.01.2026 16:30"
+      "start": "27.01.2026 14:03",
+      "end": "27.01.2026 15:03"
     },
     {
       "city": "Manisa",
