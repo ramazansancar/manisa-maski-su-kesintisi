@@ -1,20 +1,6 @@
 {
-  "count": 11,
+  "count": 10,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "FATİH",
-        "KASIMFAKI",
-        "SECAATTİN",
-        "SOFULAR",
-        "YENİCE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "26.01.2026 20:00",
-      "end": "27.01.2026 09:17"
-    },
     {
       "city": "Manisa",
       "district": "AKHİSAR",
