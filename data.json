@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "ATATÜRK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 15:52",
+      "end": "28.01.2026 17:52"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "NİŞANCIPAŞA"
@@ -46,16 +56,6 @@
     },
     {
       "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "BOSTANCI"
-      ],
-      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 15:00",
-      "end": "27.01.2026 17:00"
-    },
-    {
-      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
         "EFENDİ",
@@ -69,23 +69,11 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AYNİ ALİ",
-        "KUYUALAN",
-        "TOPÇUASIM"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 15:28",
-      "end": "27.01.2026 16:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
         "MURADİYE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 14:04",
-      "end": "Süre Verilememekte"
+      "end": "28.01.2026 14:44"
     },
     {
       "city": "Manisa",
@@ -106,6 +94,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 10:41",
       "end": "28.01.2026 13:41"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "NARLIDERE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 15:57",
+      "end": "28.01.2026 18:57"
     },
     {
       "city": "Manisa",
@@ -131,13 +129,13 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "SOĞANLI"
+        "ADİLOBA"
       ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 14:58",
-      "end": "27.01.2026 23:00"
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 15:42",
+      "end": "Süre Verilememekte"
     }
   ]
 }
