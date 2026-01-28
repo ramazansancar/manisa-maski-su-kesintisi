@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 12,
   "data": [
     {
       "city": "Manisa",
@@ -67,6 +67,16 @@
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "27.01.2026 15:00",
       "end": "27.01.2026 17:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "ULU CAMİİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 10:20",
+      "end": "28.01.2026 12:20"
     },
     {
       "city": "Manisa",
