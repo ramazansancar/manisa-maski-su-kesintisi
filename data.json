@@ -107,6 +107,17 @@
     },
     {
       "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "SAKARYA",
+        "YENİCE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 16:16",
+      "end": "28.01.2026 18:16"
+    },
+    {
+      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
         "HACI İSHAK"
@@ -114,18 +125,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 10:57",
       "end": "28.01.2026 12:57"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "SAKARYA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 16:50",
-      "end": "27.01.2026 18:00"
     },
     {
       "city": "Manisa",
