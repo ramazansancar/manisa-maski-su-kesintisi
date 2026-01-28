@@ -9,7 +9,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 08:17",
-      "end": "Süre Verilememekte"
+      "end": "28.01.2026 12:30"
     },
     {
       "city": "Manisa",
@@ -81,6 +81,16 @@
     },
     {
       "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "GÖKÇEKÖY"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 11:40",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "AYNİ ALİ",
@@ -131,18 +141,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 10:57",
       "end": "28.01.2026 12:57"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "SAKARYA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 12:26",
-      "end": "27.01.2026 13:30"
     },
     {
       "city": "Manisa",
