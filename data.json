@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 11,
   "data": [
     {
       "city": "Manisa",
@@ -20,29 +20,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 08:17",
       "end": "28.01.2026 12:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "EFENDİ",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "KETHÜDA",
-        "PAŞA",
-        "RAGIP BEY",
-        "REŞAT BEY",
-        "SEYİT AHMET",
-        "ULU CAMİİ",
-        "ŞEYHİSA"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 18:01",
-      "end": "28.01.2026 08:45"
     },
     {
       "city": "Manisa",
