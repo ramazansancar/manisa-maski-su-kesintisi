@@ -32,7 +32,17 @@
       ],
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "27.01.2026 18:01",
-      "end": "Süre Verilememekte"
+      "end": "28.01.2026 08:45"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 09:24",
+      "end": "28.01.2026 10:24"
     },
     {
       "city": "Manisa",
@@ -62,27 +72,6 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 09:42",
-      "end": "27.01.2026 12:06"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "FATİH",
-        "SECAATTİN"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "27.01.2026 09:17",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
         "AYNİ ALİ",
         "KUYUALAN",
         "TOPÇUASIM"
@@ -101,6 +90,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "27.01.2026 14:03",
       "end": "27.01.2026 15:03"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "4 EYLÜL"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "28.01.2026 09:37",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -124,7 +123,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "27.01.2026 16:50",
-      "end": "27.01.2026 17:50"
+      "end": "27.01.2026 18:00"
     },
     {
       "city": "Manisa",
