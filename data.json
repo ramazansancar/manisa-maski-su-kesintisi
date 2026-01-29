@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 9,
   "data": [
     {
       "city": "Manisa",
@@ -18,8 +18,8 @@
         "BARBAROS"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "28.01.2026 09:24",
-      "end": "28.01.2026 10:35"
+      "start": "29.01.2026 09:46",
+      "end": "29.01.2026 10:46"
     },
     {
       "city": "Manisa",
@@ -44,16 +44,6 @@
     },
     {
       "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "28.01.2026 09:37",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "UNCUBOZKÖY"
@@ -70,7 +60,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 15:57",
-      "end": "28.01.2026 18:57"
+      "end": "28.01.2026 19:00"
     },
     {
       "city": "Manisa",
@@ -81,7 +71,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 16:16",
-      "end": "28.01.2026 18:16"
+      "end": "28.01.2026 18:30"
     },
     {
       "city": "Manisa",
