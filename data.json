@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
@@ -13,14 +13,25 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "SAKARYA",
-        "YENİCE"
+        "ATATÜRK",
+        "MUSTAFA KEMAL",
+        "YEDİ EYLÜL"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "28.01.2026 16:16",
-      "end": "28.01.2026 18:30"
+      "start": "29.01.2026 16:00",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "29.01.2026 16:50",
+      "end": "29.01.2026 16:50"
     }
   ]
 }
