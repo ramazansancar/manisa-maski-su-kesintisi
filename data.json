@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
@@ -9,7 +9,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 15:52",
-      "end": "28.01.2026 17:52"
+      "end": "29.01.2026 11:00"
     },
     {
       "city": "Manisa",
@@ -19,7 +19,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "29.01.2026 09:46",
-      "end": "29.01.2026 10:46"
+      "end": "29.01.2026 10:59"
     },
     {
       "city": "Manisa",
@@ -51,16 +51,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "28.01.2026 16:16",
       "end": "28.01.2026 18:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "28.01.2026 10:57",
-      "end": "28.01.2026 12:57"
     },
     {
       "city": "Manisa",
