@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 18,
   "data": [
     {
       "city": "Manisa",
@@ -21,6 +21,20 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 11:09",
       "end": "30.01.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 15:08",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -70,7 +84,27 @@
       ],
       "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 12:00",
+      "end": "30.01.2026 15:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "ÇALIKLI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 15:40",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 15:51",
+      "end": "30.01.2026 17:51"
     },
     {
       "city": "Manisa",
@@ -106,6 +140,26 @@
     },
     {
       "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 15:50",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "HAFSA SULTAN"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 15:52",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "MUTLU",
@@ -123,19 +177,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 11:12",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ATATÜRK",
-        "MUSTAFA KEMAL",
-        "YEDİ EYLÜL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "29.01.2026 16:00",
-      "end": "29.01.2026 17:42"
+      "end": "30.01.2026 15:30"
     },
     {
       "city": "Manisa",
