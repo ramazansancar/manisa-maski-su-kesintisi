@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SELENDİ",
       "neighborhoods": [
-        "BARBAROS"
+        "İNNİCE"
       ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "29.01.2026 09:46",
-      "end": "29.01.2026 10:59"
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 10:00",
+      "end": "30.01.2026 16:00"
     },
     {
       "city": "Manisa",
