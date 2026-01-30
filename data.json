@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
@@ -10,6 +10,26 @@
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 10:00",
       "end": "30.01.2026 16:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "HATIPLAR"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 10:01",
+      "end": "30.01.2026 15:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "PAŞAKÖY"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 10:00",
+      "end": "30.01.2026 15:00"
     },
     {
       "city": "Manisa",
