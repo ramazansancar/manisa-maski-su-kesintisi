@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 19,
   "data": [
     {
       "city": "Manisa",
@@ -34,16 +34,6 @@
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HATIPLAR"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 10:01",
-      "end": "30.01.2026 15:00"
-    },
-    {
-      "city": "Manisa",
       "district": "SARIGÖL",
       "neighborhoods": [
         "ÇAVUŞLAR"
@@ -60,7 +50,7 @@
       ],
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 11:10",
-      "end": "Süre Verilememekte"
+      "end": "30.01.2026 19:12"
     },
     {
       "city": "Manisa",
@@ -124,16 +114,6 @@
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "PAŞAKÖY"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 10:00",
-      "end": "30.01.2026 15:00"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "GÜZELYURT"
@@ -141,6 +121,16 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 17:35",
       "end": "30.01.2026 18:22"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 18:58",
+      "end": "30.01.2026 20:58"
     },
     {
       "city": "Manisa",
@@ -203,7 +193,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 18:23",
-      "end": "30.01.2026 19:23"
+      "end": "30.01.2026 18:58"
     }
   ]
 }
