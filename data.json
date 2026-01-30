@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 19,
   "data": [
     {
       "city": "Manisa",
@@ -21,20 +21,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 11:09",
       "end": "30.01.2026 12:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 15:08",
-      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -108,6 +94,16 @@
     },
     {
       "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 17:01",
+      "end": "30.01.2026 19:01"
+    },
+    {
+      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "TOYGAR"
@@ -118,6 +114,16 @@
     },
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 16:40",
+      "end": "30.01.2026 18:40"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "PAŞAKÖY"
@@ -125,6 +131,16 @@
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 10:00",
       "end": "30.01.2026 15:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 17:35",
+      "end": "30.01.2026 19:35"
     },
     {
       "city": "Manisa",
@@ -146,7 +162,7 @@
       ],
       "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 15:50",
-      "end": "Süre Verilememekte"
+      "end": "30.01.2026 17:01"
     },
     {
       "city": "Manisa",
@@ -178,16 +194,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 11:12",
       "end": "30.01.2026 15:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "29.01.2026 16:50",
-      "end": "29.01.2026 16:50"
     }
   ]
 }
