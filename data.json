@@ -1,6 +1,17 @@
 {
-  "count": 5,
+  "count": 12,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "PEKER"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:09",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
@@ -23,6 +34,36 @@
     },
     {
       "city": "Manisa",
+      "district": "SARIGÖL",
+      "neighborhoods": [
+        "ÇAVUŞLAR"
+      ],
+      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:10",
+      "end": "30.01.2026 17:10"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "IŞIKKÖY"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:10",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "TOYGAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 10:47",
+      "end": "30.01.2026 12:47"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "PAŞAKÖY"
@@ -30,6 +71,39 @@
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 10:00",
       "end": "30.01.2026 15:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:08",
+      "end": "30.01.2026 11:12"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MUTLU",
+        "TOPÇUASIM"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:10",
+      "end": "30.01.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "DELEMENLER"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "30.01.2026 11:12",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
