@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "data": [
     {
       "city": "Manisa",
@@ -66,7 +66,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 12:45",
-      "end": "Süre Verilememekte"
+      "end": "31.01.2026 14:12"
     },
     {
       "city": "Manisa",
@@ -127,6 +127,24 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 15:52",
       "end": "30.01.2026 18:14"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CUMHURİYET",
+        "EFENDİ",
+        "HACI İSHAK",
+        "HÜRRİYET",
+        "İNÖNÜ",
+        "KETHÜDA",
+        "RAGIP BEY",
+        "REŞAT BEY"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "31.01.2026 13:33",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
