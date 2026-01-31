@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 10,
   "data": [
     {
       "city": "Manisa",
@@ -10,26 +10,6 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 20:36",
       "end": "31.01.2026 13:18"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "ÇALIKLI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 15:40",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 15:51",
-      "end": "30.01.2026 18:00"
     },
     {
       "city": "Manisa",
@@ -110,37 +90,20 @@
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TURGUT ÖZAL"
-      ],
-      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 15:50",
-      "end": "30.01.2026 17:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "HAFSA SULTAN"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 15:52",
-      "end": "30.01.2026 18:14"
-    },
-    {
-      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
-        "ATATÜRK",
         "CUMHURİYET",
         "EFENDİ",
         "HACI İSHAK",
+        "HAS HOCA",
         "HÜRRİYET",
         "İNÖNÜ",
         "KETHÜDA",
+        "PAŞA",
         "RAGIP BEY",
-        "REŞAT BEY"
+        "REŞAT BEY",
+        "ULU CAMİİ",
+        "ŞEYHİSA"
       ],
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 13:33",
