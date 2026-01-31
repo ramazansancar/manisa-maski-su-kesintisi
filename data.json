@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -10,16 +10,6 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 20:36",
       "end": "31.01.2026 13:18"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TURGUT ÖZAL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 17:01",
-      "end": "30.01.2026 18:00"
     },
     {
       "city": "Manisa",
