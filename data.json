@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 7,
   "data": [
     {
       "city": "Manisa",
@@ -40,6 +40,16 @@
     },
     {
       "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "DOKTOR MEHMET AKARSU"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "31.01.2026 17:47",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "HALİTPAŞA"
@@ -47,16 +57,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "30.01.2026 20:43",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 17:35",
-      "end": "30.01.2026 18:22"
     },
     {
       "city": "Manisa",
@@ -88,16 +88,6 @@
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 13:33",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "30.01.2026 18:23",
-      "end": "30.01.2026 18:58"
     }
   ]
 }
