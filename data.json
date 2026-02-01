@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -117,6 +117,16 @@
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 13:33",
       "end": "31.01.2026 22:25"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AKGEDİK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 06:31",
+      "end": "Süre Verilememekte"
     }
   ]
 }
