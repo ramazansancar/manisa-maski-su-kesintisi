@@ -23,18 +23,19 @@
       "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
-        "AHMET BEDEVİ",
-        "AKPINAR",
+        "ADAKALE",
         "ALAYBEY",
-        "KAZIM KARABEKİR",
-        "NURLUPINAR",
-        "SAKARYA",
-        "TURGUT ÖZAL",
-        "ŞEHİTLER"
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "EGE",
+        "GEDİZ",
+        "İSHAKÇELEBI",
+        "KOCATEPE",
+        "NİŞANCIPAŞA"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "31.01.2026 08:37",
-      "end": "31.01.2026 12:46"
+      "start": "01.02.2026 08:57",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
