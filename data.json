@@ -1,58 +1,24 @@
 {
-  "count": 13,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "DOKTOR MEHMET AKARSU"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "31.01.2026 17:47",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "50.YIL",
-        "ATATÜRK",
-        "AYNİ ALİ",
-        "BARBAROS",
-        "CUMHURİYET",
-        "HAFSA SULTAN",
-        "MAREŞAL FEVZİ ÇAKMAK",
-        "SPİL",
-        "TEVFİKİYE"
+        "UNCUBOZKÖY"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "31.01.2026 23:46",
-      "end": "01.02.2026 08:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "ALAYBEY",
-        "BAYINDIRLIK",
-        "DİLŞİKAR",
-        "EGE",
-        "GEDİZ",
-        "İSHAKÇELEBI",
-        "KOCATEPE",
-        "NİŞANCIPAŞA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 08:57",
-      "end": "01.02.2026 08:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "ALAYBEY",
-        "BAYINDIRLIK",
-        "DİLŞİKAR",
-        "EGE",
-        "GEDİZ",
-        "İSHAKÇELEBI",
-        "KOCATEPE",
-        "NİŞANCIPAŞA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:35",
+      "start": "01.02.2026 12:58",
       "end": "Süre Verilememekte"
     },
     {
@@ -63,6 +29,16 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "01.02.2026 12:55",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "YENİMAHALLE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 12:37",
       "end": "Süre Verilememekte"
     },
     {
@@ -85,16 +61,6 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "UNCUBOZKÖY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:58",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
         "AKMESCİT",
         "AYNİ ALİ",
         "MUTLU"
@@ -107,28 +73,18 @@
       "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "ARDA",
-        "DİNÇER",
-        "PEKER",
-        "UTKU",
-        "YARHASANLAR",
-        "ÇARŞI"
+        "ADAKALE",
+        "ALAYBEY",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "EGE",
+        "GEDİZ",
+        "İSHAKÇELEBI",
+        "KOCATEPE",
+        "NİŞANCIPAŞA"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "31.01.2026 23:43",
-      "end": "01.02.2026 08:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "DOKTOR MEHMET AKARSU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "31.01.2026 17:47",
+      "start": "01.02.2026 12:35",
       "end": "Süre Verilememekte"
     },
     {
@@ -170,26 +126,6 @@
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "01.02.2026 09:00",
       "end": "01.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 06:31",
-      "end": "01.02.2026 12:43"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "YENİMAHALLE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:37",
-      "end": "Süre Verilememekte"
     }
   ]
 }
