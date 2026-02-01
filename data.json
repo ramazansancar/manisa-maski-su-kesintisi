@@ -1,117 +1,14 @@
 {
-  "count": 8,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "AKMESCİT",
-        "MUTLU"
+        "YILMAZLAR"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 16:36",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "DERE",
-        "EGE",
-        "GÖKTAŞLI",
-        "İBRAHİMÇELEBİ",
-        "MİMARSİNAN",
-        "NİŞANCIPAŞA",
-        "SARUHAN",
-        "TUNCA",
-        "UTKU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 16:32",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "UNCUBOZKÖY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:58",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "YENİMAHALLE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:37",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "ATATÜRK",
-        "AYNİ ALİ",
-        "BARBAROS",
-        "CUMHURİYET",
-        "HAFSA SULTAN",
-        "YENİMAHALLE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:37",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKMESCİT",
-        "AYNİ ALİ",
-        "MUTLU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:37",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "ALAYBEY",
-        "BAYINDIRLIK",
-        "DİLŞİKAR",
-        "EGE",
-        "GEDİZ",
-        "İSHAKÇELEBI",
-        "KOCATEPE",
-        "NİŞANCIPAŞA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:35",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "ARDA",
-        "DİNÇER",
-        "PEKER",
-        "UTKU",
-        "YARHASANLAR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:33",
+      "start": "01.02.2026 12:55",
       "end": "Süre Verilememekte"
     }
   ]
