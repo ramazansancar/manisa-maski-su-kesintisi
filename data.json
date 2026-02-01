@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 12,
   "data": [
     {
       "city": "Manisa",
@@ -57,6 +57,42 @@
     },
     {
       "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "YILMAZLAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 12:55",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "50.YIL",
+        "ATATÜRK",
+        "AYNİ ALİ",
+        "BARBAROS",
+        "CUMHURİYET",
+        "HAFSA SULTAN",
+        "YENİMAHALLE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 12:37",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "UNCUBOZKÖY"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 12:58",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "1.ANAFARTALAR",
@@ -72,16 +108,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 23:43",
       "end": "01.02.2026 08:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MESİR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "31.01.2026 12:45",
-      "end": "31.01.2026 14:12"
     },
     {
       "city": "Manisa",
@@ -162,7 +188,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "01.02.2026 06:31",
-      "end": "Süre Verilememekte"
+      "end": "01.02.2026 12:43"
     }
   ]
 }
