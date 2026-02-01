@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -39,16 +39,6 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "01.02.2026 12:58",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "YILMAZLAR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 12:55",
       "end": "Süre Verilememekte"
     },
     {
