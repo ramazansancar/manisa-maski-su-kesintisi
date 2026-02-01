@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "data": [
     {
       "city": "Manisa",
@@ -9,6 +9,36 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "31.01.2026 17:47",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AKMESCİT",
+        "MUTLU"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 16:36",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ADAKALE",
+        "DERE",
+        "EGE",
+        "GÖKTAŞLI",
+        "İBRAHİMÇELEBİ",
+        "MİMARSİNAN",
+        "NİŞANCIPAŞA",
+        "SARUHAN",
+        "TUNCA",
+        "UTKU"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "01.02.2026 16:32",
       "end": "Süre Verilememekte"
     },
     {
@@ -103,29 +133,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "01.02.2026 12:33",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "EFENDİ",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "KETHÜDA",
-        "PAŞA",
-        "RAGIP BEY",
-        "REŞAT BEY",
-        "SEYİT AHMET",
-        "ULU CAMİİ",
-        "ŞEYHİSA"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "01.02.2026 09:00",
-      "end": "01.02.2026 17:00"
     }
   ]
 }
