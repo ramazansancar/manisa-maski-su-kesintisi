@@ -1,16 +1,6 @@
 {
-  "count": 7,
+  "count": 6,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "UNCUBOZKÖY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 12:35",
-      "end": "02.02.2026 13:35"
-    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
