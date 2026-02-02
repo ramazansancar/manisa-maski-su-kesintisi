@@ -1,16 +1,6 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "KARAPINAR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 12:27",
-      "end": "02.02.2026 14:30"
-    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
@@ -40,16 +30,6 @@
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "02.02.2026 11:28",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 10:36",
       "end": "Süre Verilememekte"
     },
     {
