@@ -1,6 +1,46 @@
 {
-  "count": 4,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "UNCUBOZKÖY"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "02.02.2026 12:35",
+      "end": "02.02.2026 13:35"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "KARAPINAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "02.02.2026 12:27",
+      "end": "02.02.2026 14:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "MERSİNDERE"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "02.02.2026 12:07",
+      "end": "02.02.2026 15:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "PAZARKÖY"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "02.02.2026 11:51",
+      "end": "02.02.2026 15:00"
+    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
@@ -35,17 +75,6 @@
       "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
       "start": "02.02.2026 10:16",
       "end": "02.02.2026 17:16"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BEŞEYLÜL",
-        "SOĞUKSU"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 10:11",
-      "end": "02.02.2026 12:11"
     }
   ]
 }
