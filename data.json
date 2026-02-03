@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -17,17 +17,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 19:43",
       "end": "03.02.2026 23:04"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARIGÖL",
-      "neighborhoods": [
-        "GÜNEYDAMLARI",
-        "KAHRAMANLAR"
-      ],
-      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 15:00",
-      "end": "03.02.2026 21:00"
     }
   ]
 }
