@@ -1,6 +1,27 @@
 {
-  "count": 8,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "İNNİCE"
+      ],
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 10:37",
+      "end": "03.02.2026 15:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "EVRENOS",
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 10:34",
+      "end": "03.02.2026 12:34"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -13,24 +34,13 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KUYUALAN",
-        "TOPÇUASIM"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 09:26",
-      "end": "03.02.2026 10:26"
-    },
-    {
-      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
         "HACI İSHAK"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 09:06",
-      "end": "03.02.2026 11:06"
+      "end": "03.02.2026 10:11"
     },
     {
       "city": "Manisa",
