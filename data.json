@@ -1,6 +1,36 @@
 {
-  "count": 8,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "SELCE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 12:30",
+      "end": "03.02.2026 15:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "KAVAKLIDERE"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 12:06",
+      "end": "03.02.2026 14:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 11:54",
+      "end": "03.02.2026 12:54"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -30,27 +60,6 @@
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 10:37",
       "end": "03.02.2026 15:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "EVRENOS",
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 10:34",
-      "end": "03.02.2026 11:10"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "ATATÜRK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 09:53",
-      "end": "03.02.2026 11:53"
     },
     {
       "city": "Manisa",
