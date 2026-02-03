@@ -3,14 +3,20 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "KIRKAĞAÇ",
       "neighborhoods": [
-        "AYNİ ALİ",
-        "KUYUALAN"
+        "BODUROĞLU",
+        "CİNOSMAN",
+        "HACIHİMMET",
+        "HIDIRAĞA",
+        "KARAALİ",
+        "KAYADİBİ",
+        "KOCAMEHMETAĞA",
+        "MEMİŞ"
       ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 18:35",
-      "end": "03.02.2026 19:35"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 19:43",
+      "end": "03.02.2026 23:04"
     },
     {
       "city": "Manisa",
