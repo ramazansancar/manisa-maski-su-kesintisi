@@ -1,6 +1,26 @@
 {
-  "count": 9,
+  "count": 8,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ILGIN"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 11:03",
+      "end": "03.02.2026 13:03"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "4 EYLÜL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 11:02",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
@@ -20,7 +40,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 10:34",
-      "end": "03.02.2026 12:34"
+      "end": "03.02.2026 11:10"
     },
     {
       "city": "Manisa",
@@ -34,16 +54,6 @@
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 09:06",
-      "end": "03.02.2026 10:11"
-    },
-    {
-      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "SELVİLİTEPE"
@@ -51,16 +61,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 08:57",
       "end": "03.02.2026 16:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ALBAYRAK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 08:56",
-      "end": "03.02.2026 10:56"
     },
     {
       "city": "Manisa",
@@ -80,17 +80,6 @@
       ],
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "02.02.2026 16:45",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "KURTLAR",
-        "YARDERE"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 11:28",
       "end": "Süre Verilememekte"
     }
   ]
