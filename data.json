@@ -1,16 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 15:01",
-      "end": "03.02.2026 15:20"
-    },
     {
       "city": "Manisa",
       "district": "SARIGÖL",
@@ -21,36 +11,6 @@
       "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 15:00",
       "end": "03.02.2026 21:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "SELCE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 12:30",
-      "end": "03.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "BORLU"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 17:06",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "TAŞDİBİ"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "02.02.2026 16:45",
-      "end": "Süre Verilememekte"
     }
   ]
 }
