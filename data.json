@@ -1,46 +1,26 @@
 {
-  "count": 9,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
-        "BAYINDIRLIK"
+        "ALAYBEY"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 14:03",
-      "end": "03.02.2026 16:03"
+      "start": "03.02.2026 15:01",
+      "end": "03.02.2026 15:20"
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "SARIGÖL",
       "neighborhoods": [
-        "BAKLACI",
-        "KURTULUŞ"
+        "GÜNEYDAMLARI",
+        "KAHRAMANLAR"
       ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 14:00",
-      "end": "03.02.2026 16:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 13:48",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "TOPÇUASIM"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 13:13",
-      "end": "Süre Verilememekte"
+      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "03.02.2026 15:00",
+      "end": "03.02.2026 21:00"
     },
     {
       "city": "Manisa",
@@ -50,27 +30,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "03.02.2026 12:30",
-      "end": "03.02.2026 15:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "İNNİCE"
-      ],
-      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 10:37",
-      "end": "03.02.2026 15:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "SELVİLİTEPE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 08:57",
-      "end": "03.02.2026 12:30"
+      "end": "03.02.2026 17:00"
     },
     {
       "city": "Manisa",
