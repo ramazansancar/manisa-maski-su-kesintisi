@@ -1,50 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 15:15",
-      "end": "04.02.2026 17:15"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 15:00",
-      "end": "04.02.2026 16:09"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADNAN MENDERES"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 14:33",
-      "end": "04.02.2026 16:07"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "ATATÜRK",
-        "BARBAROS",
-        "MAREŞAL FEVZİ ÇAKMAK",
-        "YENİMAHALLE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 14:15",
-      "end": "04.02.2026 15:34"
-    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
