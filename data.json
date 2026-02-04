@@ -1,16 +1,6 @@
 {
-  "count": 8,
+  "count": 6,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "LALAPAŞA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 12:04",
-      "end": "04.02.2026 12:52"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -41,18 +31,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "04.02.2026 11:07",
       "end": "04.02.2026 15:07"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AYNİ ALİ",
-        "KUYUALAN",
-        "TEVFİKİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 11:07",
-      "end": "04.02.2026 11:39"
     },
     {
       "city": "Manisa",
