@@ -3,23 +3,27 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "BADINCA"
+        "ADNAN MENDERES"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 11:09",
-      "end": "04.02.2026 14:09"
+      "start": "04.02.2026 14:33",
+      "end": "04.02.2026 16:33"
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ÇAKIRCAALİ"
+        "50.YIL",
+        "ATATÜRK",
+        "BARBAROS",
+        "MAREŞAL FEVZİ ÇAKMAK",
+        "YENİMAHALLE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 11:08",
-      "end": "04.02.2026 14:08"
+      "start": "04.02.2026 14:15",
+      "end": "04.02.2026 16:15"
     },
     {
       "city": "Manisa",
