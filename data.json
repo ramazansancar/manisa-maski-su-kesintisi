@@ -1,6 +1,26 @@
 {
-  "count": 6,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "04.02.2026 15:15",
+      "end": "04.02.2026 17:15"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "04.02.2026 15:00",
+      "end": "04.02.2026 16:09"
+    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -9,7 +29,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "04.02.2026 14:33",
-      "end": "04.02.2026 16:33"
+      "end": "04.02.2026 16:07"
     },
     {
       "city": "Manisa",
@@ -23,18 +43,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "04.02.2026 14:15",
-      "end": "04.02.2026 16:15"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BAKLACI",
-        "KURTULUŞ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 11:07",
-      "end": "04.02.2026 15:07"
+      "end": "04.02.2026 15:34"
     },
     {
       "city": "Manisa",
@@ -44,26 +53,6 @@
       ],
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "04.02.2026 10:59",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TURGUT ÖZAL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "04.02.2026 09:59",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "03.02.2026 23:25",
       "end": "Süre Verilememekte"
     }
   ]
