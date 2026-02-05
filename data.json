@@ -1,6 +1,16 @@
 {
-  "count": 3,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "BORLU"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "05.02.2026 16:09",
+      "end": "05.02.2026 18:00"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
