@@ -1,6 +1,45 @@
 {
-  "count": 2,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR",
+        "AHMET BEDEVİ",
+        "PEKER",
+        "UTKU",
+        "ÇARŞI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "05.02.2026 10:04",
+      "end": "05.02.2026 12:04"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "AKARCA",
+        "BARIŞ",
+        "BEŞEYLÜL",
+        "SARISU",
+        "YENİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "05.02.2026 09:22",
+      "end": "05.02.2026 11:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BAKLACI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "05.02.2026 09:22",
+      "end": "05.02.2026 11:30"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
