@@ -1,6 +1,16 @@
 {
-  "count": 4,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "ULU CAMİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "05.02.2026 17:01",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
@@ -21,7 +31,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "05.02.2026 14:21",
-      "end": "05.02.2026 16:21"
+      "end": "05.02.2026 19:30"
     },
     {
       "city": "Manisa",
@@ -33,7 +43,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "05.02.2026 14:05",
-      "end": "05.02.2026 17:05"
+      "end": "05.02.2026 19:30"
     },
     {
       "city": "Manisa",
