@@ -1,26 +1,6 @@
 {
-  "count": 7,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "EVRENOS"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:42",
-      "end": "05.02.2026 11:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:37",
-      "end": "05.02.2026 12:30"
-    },
     {
       "city": "Manisa",
       "district": "KULA",
@@ -40,44 +20,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "05.02.2026 10:28",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KAZIM KARABEKİR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:28",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "ŞEYHİSA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:19",
-      "end": "05.02.2026 11:14"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "PEKER",
-        "UTKU",
-        "ÇARŞI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:04",
-      "end": "05.02.2026 12:04"
     }
   ]
 }
