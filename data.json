@@ -1,45 +1,64 @@
 {
-  "count": 4,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "KIRKAĞAÇ",
       "neighborhoods": [
-        "TURGUT ÖZAL"
+        "BODUROĞLU",
+        "CİNOSMAN",
+        "HACIHİMMET",
+        "HIDIRAĞA",
+        "KARAALİ",
+        "KAYADİBİ",
+        "KOCAMEHMETAĞA",
+        "MEMİŞ"
       ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 09:23",
-      "end": "06.02.2026 11:23"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.02.2026 11:30",
+      "end": "06.02.2026 13:30"
     },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
-        "BAYINDIRLIK"
+        "KAZIM KARABEKİR"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 09:22",
-      "end": "06.02.2026 11:22"
+      "start": "06.02.2026 10:39",
+      "end": "06.02.2026 12:39"
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "TURGUT ÖZAL"
+        "GAFFAR OKKAN",
+        "YENİ MAHALLE YILMAZ",
+        "YILMAZ"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 23:30",
-      "end": "Süre Verilememekte"
+      "start": "06.02.2026 10:30",
+      "end": "06.02.2026 15:30"
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "KOYUNCU"
+        "ÇUKUROBA"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.02.2026 10:18",
+      "end": "06.02.2026 16:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "75. YIL"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "05.02.2026 10:28",
-      "end": "Süre Verilememekte"
+      "start": "06.02.2026 10:13",
+      "end": "06.02.2026 11:09"
     }
   ]
 }
