@@ -1,34 +1,6 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "ŞEHİTLER"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 12:01",
-      "end": "06.02.2026 13:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "BODUROĞLU",
-        "CİNOSMAN",
-        "HACIHİMMET",
-        "HIDIRAĞA",
-        "KARAALİ",
-        "KAYADİBİ",
-        "KOCAMEHMETAĞA",
-        "MEMİŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 11:30",
-      "end": "06.02.2026 13:30"
-    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
