@@ -1,22 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "AKSOY",
-        "BARIŞ",
-        "NAMIK KEMAL",
-        "SAĞLIK",
-        "SEYRANTEPE",
-        "YEŞİLYURT",
-        "ÖZYURT",
-        "ŞEHİTLER"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 18:54",
-      "end": "06.02.2026 21:00"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
