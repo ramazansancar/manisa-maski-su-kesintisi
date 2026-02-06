@@ -1,6 +1,17 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "ŞEHİTLER"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "06.02.2026 12:01",
+      "end": "06.02.2026 13:01"
+    },
     {
       "city": "Manisa",
       "district": "KIRKAĞAÇ",
@@ -17,16 +28,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "06.02.2026 11:30",
       "end": "06.02.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KAZIM KARABEKİR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 10:39",
-      "end": "06.02.2026 12:39"
     },
     {
       "city": "Manisa",
@@ -49,16 +50,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "06.02.2026 10:18",
       "end": "06.02.2026 16:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "75. YIL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 10:13",
-      "end": "06.02.2026 11:09"
     }
   ]
 }
