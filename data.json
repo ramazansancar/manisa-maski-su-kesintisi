@@ -1,27 +1,15 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
-      "district": "SALİHLİ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "GAFFAR OKKAN",
-        "YENİ MAHALLE YILMAZ",
-        "YILMAZ"
+        "MURADİYE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 10:30",
-      "end": "06.02.2026 15:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "ÇUKUROBA"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.02.2026 10:18",
-      "end": "06.02.2026 16:00"
+      "start": "06.02.2026 14:56",
+      "end": "06.02.2026 16:56"
     }
   ]
 }
