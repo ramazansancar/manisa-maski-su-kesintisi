@@ -3,26 +3,22 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "BARIŞ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "07.02.2026 13:55",
+      "end": "07.02.2026 15:00"
+    },
+    {
+      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
         "DAĞDERE"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "07.02.2026 13:09",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
-      "start": "07.02.2026 12:33",
       "end": "Süre Verilememekte"
     },
     {
