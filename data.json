@@ -1,15 +1,29 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "AYNİ ALİ"
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
+      "start": "07.02.2026 12:33",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "SART"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "07.02.2026 09:41",
-      "end": "07.02.2026 11:41"
+      "start": "07.02.2026 12:17",
+      "end": "07.02.2026 17:00"
     }
   ]
 }
