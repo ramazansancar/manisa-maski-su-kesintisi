@@ -1,24 +1,17 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "SALİHLİ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "BARIŞ"
+        "AYNİ ALİ",
+        "KUYUALAN",
+        "TEVFİKİYE",
+        "TOPÇUASIM"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "07.02.2026 13:55",
-      "end": "07.02.2026 15:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "DAĞDERE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "07.02.2026 13:09",
+      "start": "07.02.2026 14:33",
       "end": "Süre Verilememekte"
     },
     {
