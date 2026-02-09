@@ -1,25 +1,26 @@
 {
-  "count": 9,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
-      "district": "SOMA",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ATATÜRK"
+        "SPİL"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 11:52",
-      "end": "Süre Verilememekte"
+      "start": "09.02.2026 13:33",
+      "end": "09.02.2026 15:33"
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "BADINCA"
+        "AKMESCİT",
+        "KAYNAK"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 11:06",
-      "end": "09.02.2026 13:06"
+      "start": "09.02.2026 13:05",
+      "end": "09.02.2026 13:33"
     },
     {
       "city": "Manisa",
@@ -33,17 +34,6 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KUYUALAN",
-        "TEVFİKİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 10:22",
-      "end": "09.02.2026 12:22"
-    },
-    {
-      "city": "Manisa",
       "district": "KÖPRÜBAŞI",
       "neighborhoods": [
         "NAMIK KEMAL"
@@ -54,17 +44,6 @@
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HÜRRİYET",
-        "İNÖNÜ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 10:08",
-      "end": "09.02.2026 11:28"
-    },
-    {
-      "city": "Manisa",
       "district": "SALİHLİ",
       "neighborhoods": [
         "KAPANCI"
@@ -72,18 +51,6 @@
       "description": "YENİ POMPA KURULUMU Sebebiyle Su Kesintisi",
       "start": "09.02.2026 10:07",
       "end": "09.02.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "SUBAŞI",
-        "YENİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 09:15",
-      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
