@@ -3,13 +3,22 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "DEMİRCİ",
       "neighborhoods": [
-        "SPİL"
+        "BEYAZIT",
+        "CUMHURİYET",
+        "DOKTOR MEHMET AKARSU",
+        "HACIBABA",
+        "HACIHASAN",
+        "HACITÜRBEK",
+        "SİNAN",
+        "SOFULAR",
+        "YAĞMUR",
+        "ŞEHREKÜSTÜ"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 13:33",
-      "end": "09.02.2026 15:33"
+      "start": "09.02.2026 15:11",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
