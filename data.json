@@ -1,6 +1,82 @@
 {
-  "count": 5,
+  "count": 8,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR",
+        "AHMET BEDEVİ",
+        "ALAYBEY",
+        "ARDA",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "DİNÇER",
+        "EGE",
+        "KOCATEPE",
+        "NİŞANCIPAŞA",
+        "PEKER",
+        "SAKARYA",
+        "UTKU",
+        "YARHASANLAR",
+        "ÇARŞI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 23:00",
+      "end": "10.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AYNİ ALİ",
+        "TEVFİKİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 23:00",
+      "end": "10.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "PAZAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 17:01",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "SART"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 16:33",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "ÇELİKLİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 16:33",
+      "end": "09.02.2026 23:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 16:21",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "DEMİRCİ",
@@ -22,26 +98,6 @@
     },
     {
       "city": "Manisa",
-      "district": "SARIGÖL",
-      "neighborhoods": [
-        "ŞEYHDAVUTLAR"
-      ],
-      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 10:41",
-      "end": "09.02.2026 17:41"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "NAMIK KEMAL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 10:10",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "SALİHLİ",
       "neighborhoods": [
         "KAPANCI"
@@ -49,16 +105,6 @@
       "description": "YENİ POMPA KURULUMU Sebebiyle Su Kesintisi",
       "start": "09.02.2026 10:07",
       "end": "09.02.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "ÇELİKLİ"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 09:07",
-      "end": "Süre Verilememekte"
     }
   ]
 }
