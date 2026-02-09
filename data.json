@@ -1,4 +1,91 @@
 {
-  "count": 0,
-  "data": []
+  "count": 8,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "NAMIK KEMAL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 10:10",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HÜRRİYET",
+        "İNÖNÜ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 10:08",
+      "end": "09.02.2026 12:08"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "KAPANCI"
+      ],
+      "description": "YENİ POMPA KURULUMU Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 10:07",
+      "end": "09.02.2026 18:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ADAKALE",
+        "AKINCILAR",
+        "İBRAHİMÇELEBİ",
+        "MİMARSİNAN"
+      ],
+      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 09:50",
+      "end": "09.02.2026 11:50"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "DÜZLEN"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 09:43",
+      "end": "09.02.2026 11:43"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 09:37",
+      "end": "09.02.2026 10:37"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "SUBAŞI",
+        "YENİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 09:15",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "ÇELİKLİ"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 09:07",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
