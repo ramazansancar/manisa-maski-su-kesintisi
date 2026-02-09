@@ -1,6 +1,47 @@
 {
-  "count": 8,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "ATATÜRK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 11:52",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BADINCA"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 11:06",
+      "end": "09.02.2026 13:06"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARIGÖL",
+      "neighborhoods": [
+        "ŞEYHDAVUTLAR"
+      ],
+      "description": "ELEKTRIK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 10:41",
+      "end": "09.02.2026 17:41"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KUYUALAN",
+        "TEVFİKİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 10:22",
+      "end": "09.02.2026 12:22"
+    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
@@ -20,7 +61,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "09.02.2026 10:08",
-      "end": "09.02.2026 12:08"
+      "end": "09.02.2026 11:28"
     },
     {
       "city": "Manisa",
@@ -31,39 +72,6 @@
       "description": "YENİ POMPA KURULUMU Sebebiyle Su Kesintisi",
       "start": "09.02.2026 10:07",
       "end": "09.02.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "AKINCILAR",
-        "İBRAHİMÇELEBİ",
-        "MİMARSİNAN"
-      ],
-      "description": "BORU PATLAGI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 09:50",
-      "end": "09.02.2026 11:50"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "DÜZLEN"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 09:43",
-      "end": "09.02.2026 11:43"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "BARBAROS"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 09:37",
-      "end": "09.02.2026 10:37"
     },
     {
       "city": "Manisa",
