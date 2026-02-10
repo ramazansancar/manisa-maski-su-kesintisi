@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -9,17 +9,6 @@
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "10.02.2026 16:06",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ATATÜRK",
-        "YEDİ EYLÜL"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 15:16",
       "end": "Süre Verilememekte"
     },
     {
