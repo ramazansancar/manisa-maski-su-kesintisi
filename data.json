@@ -1,6 +1,48 @@
 {
-  "count": 6,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "KARABEYLER"
+      ],
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 16:06",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "GAFFAR OKKAN",
+        "YILMAZ"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 15:36",
+      "end": "10.02.2026 17:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ATATÜRK",
+        "YEDİ EYLÜL"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 15:16",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "TATLIÇEŞME"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 15:14",
+      "end": "11.02.2026 15:14"
+    },
     {
       "city": "Manisa",
       "district": "TURGUTLU",
@@ -51,25 +93,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.02.2026 16:33",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "BEYAZIT",
-        "CUMHURİYET",
-        "DOKTOR MEHMET AKARSU",
-        "HACIBABA",
-        "HACIHASAN",
-        "HACITÜRBEK",
-        "SİNAN",
-        "SOFULAR",
-        "YAĞMUR",
-        "ŞEHREKÜSTÜ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 15:11",
       "end": "Süre Verilememekte"
     }
   ]
