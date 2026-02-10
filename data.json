@@ -1,6 +1,26 @@
 {
-  "count": 9,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 18:01",
+      "end": "10.02.2026 19:01"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 16:40",
+      "end": "10.02.2026 18:40"
+    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
@@ -10,17 +30,6 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "10.02.2026 16:06",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "GAFFAR OKKAN",
-        "YILMAZ"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 15:36",
-      "end": "10.02.2026 17:30"
     },
     {
       "city": "Manisa",
@@ -42,58 +51,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "10.02.2026 15:14",
       "end": "11.02.2026 15:14"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "SUBAŞI",
-        "YENİ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 14:48",
-      "end": "10.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "KELİ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 10:29",
-      "end": "10.02.2026 16:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "ÇELİKLİ"
-      ],
-      "description": "İCME SUYU ANA KOLLEKTOR HATTINDA OLUSAN ARIZA Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 09:36",
-      "end": "10.02.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "PAZAR"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 17:01",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "SART"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 16:33",
-      "end": "Süre Verilememekte"
     }
   ]
 }
