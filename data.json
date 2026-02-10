@@ -1,6 +1,16 @@
 {
-  "count": 7,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "KELİ"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 10:29",
+      "end": "10.02.2026 16:30"
+    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
@@ -19,43 +29,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "10.02.2026 09:26",
-      "end": "10.02.2026 11:26"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "ALAYBEY",
-        "ARDA",
-        "BAYINDIRLIK",
-        "DİLŞİKAR",
-        "DİNÇER",
-        "EGE",
-        "KOCATEPE",
-        "NİŞANCIPAŞA",
-        "PEKER",
-        "SAKARYA",
-        "UTKU",
-        "YARHASANLAR",
-        "ÇARŞI"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 23:00",
-      "end": "10.02.2026 12:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AYNİ ALİ",
-        "TEVFİKİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 23:00",
-      "end": "10.02.2026 12:00"
+      "end": "10.02.2026 12:26"
     },
     {
       "city": "Manisa",
