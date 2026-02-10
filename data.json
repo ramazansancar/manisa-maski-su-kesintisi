@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
@@ -20,16 +20,6 @@
       "description": "İCME SUYU ANA KOLLEKTOR HATTINDA OLUSAN ARIZA Sebebiyle Su Kesintisi",
       "start": "10.02.2026 09:36",
       "end": "10.02.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HÜRRİYET"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 09:26",
-      "end": "10.02.2026 12:26"
     },
     {
       "city": "Manisa",
