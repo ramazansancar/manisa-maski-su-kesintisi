@@ -1,4 +1,100 @@
 {
-  "count": 0,
-  "data": []
+  "count": 7,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "ÇELİKLİ"
+      ],
+      "description": "İCME SUYU ANA KOLLEKTOR HATTINDA OLUSAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 09:36",
+      "end": "10.02.2026 17:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HÜRRİYET"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 09:26",
+      "end": "10.02.2026 11:26"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR",
+        "AHMET BEDEVİ",
+        "ALAYBEY",
+        "ARDA",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "DİNÇER",
+        "EGE",
+        "KOCATEPE",
+        "NİŞANCIPAŞA",
+        "PEKER",
+        "SAKARYA",
+        "UTKU",
+        "YARHASANLAR",
+        "ÇARŞI"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 23:00",
+      "end": "10.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AYNİ ALİ",
+        "TEVFİKİYE"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 23:00",
+      "end": "10.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "PAZAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 17:01",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "SART"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 16:33",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "BEYAZIT",
+        "CUMHURİYET",
+        "DOKTOR MEHMET AKARSU",
+        "HACIBABA",
+        "HACIHASAN",
+        "HACITÜRBEK",
+        "SİNAN",
+        "SOFULAR",
+        "YAĞMUR",
+        "ŞEHREKÜSTÜ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 15:11",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
