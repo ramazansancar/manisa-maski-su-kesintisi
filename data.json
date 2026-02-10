@@ -1,6 +1,18 @@
 {
-  "count": 5,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "SUBAŞI",
+        "YENİ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "10.02.2026 14:48",
+      "end": "10.02.2026 17:00"
+    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
