@@ -1,6 +1,17 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMA",
+        "HÜRRİYET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "11.02.2026 17:21",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -10,39 +21,6 @@
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "11.02.2026 16:17",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "DİLŞİKAR",
-        "EGE",
-        "NİŞANCIPAŞA",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 15:58",
-      "end": "11.02.2026 16:58"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKMESCİT",
-        "AYNİ ALİ",
-        "KAYNAK",
-        "KUYUALAN",
-        "LALAPAŞA",
-        "MERKEZ EFENDİ",
-        "MUTLU",
-        "TEVFİKİYE",
-        "TOPÇUASIM",
-        "UNCUBOZKÖY"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 12:06",
-      "end": "11.02.2026 15:34"
     }
   ]
 }
