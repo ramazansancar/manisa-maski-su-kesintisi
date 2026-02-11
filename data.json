@@ -3,33 +3,40 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "YENİMAHALLE"
+        "ALAYBEY",
+        "DİLŞİKAR",
+        "EGE",
+        "KOCATEPE",
+        "NİŞANCIPAŞA",
+        "SAKARYA"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 09:19",
-      "end": "11.02.2026 10:03"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 08:39",
-      "end": "11.02.2026 10:03"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "KARABEYLER"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 16:06",
+      "start": "11.02.2026 11:08",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "KETHÜDA",
+        "RAGIP BEY"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "11.02.2026 10:55",
+      "end": "11.02.2026 11:40"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "DİNÇER",
+        "YARHASANLAR"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "11.02.2026 10:35",
+      "end": "11.02.2026 12:36"
     },
     {
       "city": "Manisa",
