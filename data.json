@@ -1,16 +1,29 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KETHÜDA",
-        "ULU CAMİİ"
+        "BARBAROS"
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 14:30",
-      "end": "11.02.2026 16:00"
+      "start": "11.02.2026 16:17",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "DİLŞİKAR",
+        "EGE",
+        "NİŞANCIPAŞA",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "11.02.2026 15:58",
+      "end": "11.02.2026 16:58"
     },
     {
       "city": "Manisa",
@@ -29,32 +42,7 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "11.02.2026 12:06",
-      "end": "11.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "DİLŞİKAR",
-        "EGE",
-        "KOCATEPE",
-        "NİŞANCIPAŞA",
-        "SAKARYA"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "11.02.2026 11:08",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "TATLIÇEŞME"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "10.02.2026 15:14",
-      "end": "11.02.2026 15:14"
+      "end": "11.02.2026 15:34"
     }
   ]
 }
