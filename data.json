@@ -1,15 +1,27 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "AHMETLİ",
       "neighborhoods": [
-        "GÜZELYURT"
+        "ATAKÖY",
+        "KURTULUŞ",
+        "ZAFER"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "12.02.2026 16:03",
-      "end": "12.02.2026 17:00"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.02.2026 18:54",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "KARAAĞAÇLI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.02.2026 18:50",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
