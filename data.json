@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "BAKLACI"
+        "GÜZELYURT"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "12.02.2026 13:50",
-      "end": "12.02.2026 15:50"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "12.02.2026 16:03",
+      "end": "12.02.2026 18:03"
     },
     {
       "city": "Manisa",
