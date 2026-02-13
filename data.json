@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
@@ -29,18 +29,6 @@
       ],
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.02.2026 10:18",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "ATAKÖY",
-        "KURTULUŞ",
-        "ZAFER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "12.02.2026 18:54",
       "end": "Süre Verilememekte"
     }
   ]
