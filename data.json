@@ -1,26 +1,6 @@
 {
-  "count": 8,
+  "count": 4,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜRLE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 12:30",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "KİLLİK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 11:07",
-      "end": "13.02.2026 16:30"
-    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -29,16 +9,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.02.2026 10:48",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 10:38",
       "end": "Süre Verilememekte"
     },
     {
@@ -59,19 +29,6 @@
       ],
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.02.2026 10:18",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "BARBAROS",
-        "MAREŞAL FEVZİ ÇAKMAK",
-        "YENİMAHALLE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 09:52",
       "end": "Süre Verilememekte"
     },
     {
