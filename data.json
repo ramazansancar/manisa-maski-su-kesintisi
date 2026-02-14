@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -9,26 +9,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.02.2026 10:48",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KEÇİLİ KÖY"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 10:19",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "SARINASUHLAR"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 10:18",
       "end": "Süre Verilememekte"
     }
   ]
