@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KARAAĞAÇLI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.02.2026 17:39",
-      "end": "14.02.2026 19:35"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
