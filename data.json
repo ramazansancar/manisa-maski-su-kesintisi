@@ -1,15 +1,25 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KARAAĞAÇLI"
+        "BARBAROS"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.02.2026 10:48",
-      "end": "Süre Verilememekte"
+      "start": "14.02.2026 11:00",
+      "end": "14.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "14.02.2026 10:30",
+      "end": "14.02.2026 12:30"
     }
   ]
 }
