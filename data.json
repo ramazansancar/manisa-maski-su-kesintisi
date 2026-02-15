@@ -1,4 +1,15 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "KURTULUŞ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "15.02.2026 10:22",
+      "end": "15.02.2026 13:00"
+    }
+  ]
 }
