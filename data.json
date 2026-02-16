@@ -1,6 +1,80 @@
 {
-  "count": 2,
+  "count": 9,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "AKARCA",
+        "BARIŞ",
+        "BEŞEYLÜL",
+        "MENDERES",
+        "YENİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 11:50",
+      "end": "16.02.2026 16:50"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "ZAFERİYE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 11:28",
+      "end": "16.02.2026 13:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HÜRRİYET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 11:27",
+      "end": "16.02.2026 13:27"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ALHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 11:13",
+      "end": "16.02.2026 16:15"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "AHMET BEDEVİ"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 10:58",
+      "end": "16.02.2026 11:58"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 10:57",
+      "end": "16.02.2026 11:57"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 10:43",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
