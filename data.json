@@ -1,6 +1,19 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AYNİ ALİ",
+        "KUYUALAN",
+        "TEVFİKİYE",
+        "TOPÇUASIM"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 01:49",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "KULA",
@@ -9,26 +22,6 @@
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "16.02.2026 22:48",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "TEMREK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.02.2026 17:15",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "YAĞCILAR"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "16.02.2026 11:57",
       "end": "Süre Verilememekte"
     }
   ]
