@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "SART"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 20:37",
+      "end": "16.02.2026 23:30"
+    },
+    {
+      "city": "Manisa",
       "district": "KÖPRÜBAŞI",
       "neighborhoods": [
         "TEMREK"
@@ -20,16 +30,6 @@
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "16.02.2026 11:57",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ALHAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.02.2026 11:13",
-      "end": "16.02.2026 20:00"
     }
   ]
 }
