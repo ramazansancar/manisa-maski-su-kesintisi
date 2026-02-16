@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SALİHLİ",
+      "district": "KULA",
       "neighborhoods": [
-        "SART"
+        "NARINCALISÜLEYMAN"
       ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "16.02.2026 20:37",
-      "end": "16.02.2026 23:30"
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.02.2026 22:48",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
