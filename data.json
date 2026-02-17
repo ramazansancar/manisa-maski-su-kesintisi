@@ -1,6 +1,76 @@
 {
-  "count": 3,
+  "count": 10,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "SAKARYA",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 10:44",
+      "end": "17.02.2026 12:44"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 10:42",
+      "end": "17.02.2026 12:42"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AKGEDİK"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 10:41",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "50.YIL",
+        "ATATÜRK",
+        "BARBAROS",
+        "MAREŞAL FEVZİ ÇAKMAK",
+        "YENİMAHALLE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 09:48",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "AKSOY",
+        "KURTULUŞ"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 09:34",
+      "end": "17.02.2026 11:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "FATİH",
+        "HACIHAMZA",
+        "KASIMFAKI",
+        "SECAATTİN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "17.02.2026 09:27",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -33,6 +103,25 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "16.02.2026 22:48",
       "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "BEYAZIT",
+        "CUMHURİYET",
+        "DOKTOR MEHMET AKARSU",
+        "HACIBABA",
+        "HACIHASAN",
+        "HACITÜRBEK",
+        "SİNAN",
+        "SOFULAR",
+        "YAĞMUR",
+        "ŞEHREKÜSTÜ"
+      ],
+      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
+      "start": "09.02.2026 15:11",
+      "end": "17.02.2026 20:54"
     }
   ]
 }
