@@ -1,24 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "BEYAZIT",
-        "CUMHURİYET",
-        "DOKTOR MEHMET AKARSU",
-        "HACIBABA",
-        "HACIHASAN",
-        "HACITÜRBEK",
-        "SİNAN",
-        "SOFULAR",
-        "YAĞMUR",
-        "ŞEHREKÜSTÜ"
-      ],
-      "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
-      "start": "09.02.2026 15:11",
-      "end": "17.02.2026 20:54"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
