@@ -1,59 +1,6 @@
 {
-  "count": 12,
+  "count": 6,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "NAKIPAĞA",
-        "UZUNÇAM"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 11:35",
-      "end": "17.02.2026 12:35"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ERGENEKON"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 11:17",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BADINCA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 10:54",
-      "end": "17.02.2026 12:54"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "SAKARYA",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 10:44",
-      "end": "17.02.2026 12:44"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 10:42",
-      "end": "17.02.2026 12:42"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -62,20 +9,6 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "17.02.2026 10:41",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "ATATÜRK",
-        "BARBAROS",
-        "MAREŞAL FEVZİ ÇAKMAK",
-        "YENİMAHALLE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.02.2026 09:48",
       "end": "Süre Verilememekte"
     },
     {
