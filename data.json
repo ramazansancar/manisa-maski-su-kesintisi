@@ -3,13 +3,12 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "FATİH",
-        "HAFSA SULTAN"
+        "DAĞDERE"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.02.2026 14:12",
+      "start": "18.02.2026 16:01",
       "end": "Süre Verilememekte"
     }
   ]
