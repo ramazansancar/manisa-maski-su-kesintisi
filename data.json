@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -10,33 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "18.02.2026 20:09",
       "end": "18.02.2026 23:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "İSTASYON"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.02.2026 20:05",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "AKSOY",
-        "BARIŞ",
-        "NAMIK KEMAL",
-        "SAĞLIK",
-        "SEYRANTEPE",
-        "YEŞİLYURT",
-        "ÖZYURT",
-        "ŞEHİTLER"
-      ],
-      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
-      "start": "18.02.2026 16:39",
-      "end": "Süre Verilememekte"
     }
   ]
 }
