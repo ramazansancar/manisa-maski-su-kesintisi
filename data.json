@@ -1,14 +1,41 @@
 {
-  "count": 1,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "DAĞDERE"
+        "GÖBEKLİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.02.2026 16:01",
+      "start": "18.02.2026 17:35",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KAYAPINAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "18.02.2026 16:50",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "AKSOY",
+        "BARIŞ",
+        "NAMIK KEMAL",
+        "SAĞLIK",
+        "SEYRANTEPE",
+        "YEŞİLYURT",
+        "ÖZYURT",
+        "ŞEHİTLER"
+      ],
+      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "18.02.2026 16:39",
       "end": "Süre Verilememekte"
     }
   ]
