@@ -1,14 +1,24 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "KIRKAĞAÇ",
       "neighborhoods": [
-        "GÖBEKLİ"
+        "KARAKURT"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.02.2026 17:35",
+      "start": "18.02.2026 20:09",
+      "end": "18.02.2026 23:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "İSTASYON"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.02.2026 20:05",
       "end": "Süre Verilememekte"
     },
     {
