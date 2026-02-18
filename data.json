@@ -1,4 +1,16 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "FATİH",
+        "HAFSA SULTAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.02.2026 14:12",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
