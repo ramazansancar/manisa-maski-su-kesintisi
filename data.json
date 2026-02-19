@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -15,17 +15,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 13:00",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "MEMİŞ",
-        "TEVFİKİYE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 12:30",
-      "end": "19.02.2026 15:00"
     },
     {
       "city": "Manisa",
@@ -60,26 +49,6 @@
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "TURGUTLAR"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:48",
-      "end": "19.02.2026 12:25"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:22",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
         "ATATÜRK",
@@ -88,18 +57,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 11:12",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK",
-        "HÜRRİYET",
-        "İNÖNÜ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:10",
-      "end": "19.02.2026 11:40"
     },
     {
       "city": "Manisa",
