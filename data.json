@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -10,16 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 15:26",
       "end": "20.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "ÖKSÜZLÜ"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 08:54",
-      "end": "19.02.2026 18:00"
     }
   ]
 }
