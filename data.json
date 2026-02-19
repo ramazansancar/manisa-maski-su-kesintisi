@@ -1,16 +1,15 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "ALAYBEY",
-        "ŞEHİTLER"
+        "HORZUMALAYAKA"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 14:39",
-      "end": "19.02.2026 15:39"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "19.02.2026 15:26",
+      "end": "20.02.2026 17:00"
     },
     {
       "city": "Manisa",
@@ -36,26 +35,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 13:00",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ERENKÖY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:55",
-      "end": "19.02.2026 14:55"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "DUMANLAR"
-      ],
-      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 09:41",
       "end": "Süre Verilememekte"
     },
     {
