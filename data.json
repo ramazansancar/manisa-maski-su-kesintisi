@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -13,39 +13,13 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "MAREŞAL FEVZİ ÇAKMAK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 14:26",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "AKINCILAR",
-        "FATİH",
-        "HACIHAMZA",
-        "KASIMFAKI",
-        "SECAATTİN",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 13:00",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "DEMİRCİ",
       "neighborhoods": [
         "ÖKSÜZLÜ"
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 08:54",
-      "end": "Süre Verilememekte"
+      "end": "19.02.2026 18:00"
     }
   ]
 }
