@@ -1,6 +1,28 @@
 {
-  "count": 8,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "19.02.2026 14:39",
+      "end": "19.02.2026 15:39"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "50.YIL",
+        "MAREŞAL FEVZİ ÇAKMAK"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "19.02.2026 14:26",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "DEMİRCİ",
@@ -18,17 +40,6 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "MAREŞAL FEVZİ ÇAKMAK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 12:03",
-      "end": "19.02.2026 14:03"
-    },
-    {
-      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "ERENKÖY"
@@ -36,38 +47,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "19.02.2026 11:55",
       "end": "19.02.2026 14:55"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "KURTULUŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:53",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "ATATÜRK",
-        "ONÜÇ EYLÜL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 11:12",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMA",
-        "HÜRRİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 09:42",
-      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
