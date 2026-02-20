@@ -1,36 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "SELVİLİTEPE"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 17:19",
-      "end": "20.02.2026 18:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ÇAKIRCAALİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 15:32",
-      "end": "20.02.2026 18:35"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "KADIDAĞI"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 14:30",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -40,16 +10,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "20.02.2026 13:24",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "SELCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 09:20",
-      "end": "20.02.2026 18:00"
     }
   ]
 }
