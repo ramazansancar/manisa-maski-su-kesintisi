@@ -1,14 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "AKSELENDİ"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 20:16",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "SPİL"
+        "AKGEDİK"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 13:24",
+      "start": "20.02.2026 20:14",
       "end": "Süre Verilememekte"
     }
   ]
