@@ -1,6 +1,72 @@
 {
-  "count": 1,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "EGE",
+        "NİŞANCIPAŞA",
+        "SAKARYA"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:49",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "CUMHURİYET"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:32",
+      "end": "20.02.2026 11:32"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "HORZUMKESERLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:21",
+      "end": "20.02.2026 15:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "SELCE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:20",
+      "end": "20.02.2026 14:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BAKLACI",
+        "KURTULUŞ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:18",
+      "end": "20.02.2026 12:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 09:15",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
