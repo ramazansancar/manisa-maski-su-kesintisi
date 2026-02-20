@@ -1,6 +1,16 @@
 {
-  "count": 7,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "SELVİLİTEPE"
+      ],
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 17:19",
+      "end": "20.02.2026 18:30"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -23,33 +33,6 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "İSTASYON",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 14:19",
-      "end": "20.02.2026 15:29"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "EFENDİ",
-        "KETHÜDA",
-        "REŞAT BEY",
-        "SEYİT AHMET",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 14:10",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "SPİL"
@@ -66,17 +49,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "20.02.2026 09:20",
-      "end": "20.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "HORZUMALAYAKA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "19.02.2026 15:26",
-      "end": "20.02.2026 13:45"
+      "end": "20.02.2026 18:00"
     }
   ]
 }
