@@ -1,6 +1,17 @@
 {
-  "count": 8,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.02.2026 12:23",
+      "end": "20.02.2026 14:23"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -22,19 +33,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "20.02.2026 11:07",
       "end": "20.02.2026 13:07"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BEŞEYLÜL",
-        "SAKARYA",
-        "SOĞUKSU",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 10:32",
-      "end": "20.02.2026 11:48"
     },
     {
       "city": "Manisa",
@@ -65,17 +63,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "20.02.2026 09:20",
       "end": "20.02.2026 14:20"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BAKLACI",
-        "KURTULUŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.02.2026 09:18",
-      "end": "20.02.2026 12:20"
     },
     {
       "city": "Manisa",
