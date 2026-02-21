@@ -1,4 +1,15 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "21.02.2026 10:24",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
