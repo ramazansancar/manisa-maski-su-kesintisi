@@ -1,19 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "75. YIL",
-        "HAFSA SULTAN",
-        "LALELİ",
-        "MESİR"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.02.2026 13:54",
-      "end": "22.02.2026 15:54"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
