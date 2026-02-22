@@ -1,4 +1,15 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ULUDERBENT"
+      ],
+      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "22.02.2026 09:32",
+      "end": "22.02.2026 20:00"
+    }
+  ]
 }
