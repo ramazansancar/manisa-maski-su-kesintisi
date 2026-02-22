@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -12,16 +12,6 @@
       ],
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "22.02.2026 20:58",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HALİTPAŞA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.02.2026 18:54",
       "end": "Süre Verilememekte"
     },
     {
