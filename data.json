@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "GÜMÜŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.02.2026 10:38",
-      "end": "22.02.2026 12:30"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
