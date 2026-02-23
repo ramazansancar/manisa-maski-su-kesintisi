@@ -1,15 +1,46 @@
 {
-  "count": 4,
+  "count": 7,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "GÜZELYURT"
+        "MERKEZ EFENDİ"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "23.02.2026 14:33",
-      "end": "Süre Verilememekte"
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "23.02.2026 15:54",
+      "end": "23.02.2026 17:54"
+    },
+    {
+      "city": "Manisa",
+      "district": "GÖRDES",
+      "neighborhoods": [
+        "ADNAN MENDERES"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "23.02.2026 15:40",
+      "end": "23.02.2026 17:40"
+    },
+    {
+      "city": "Manisa",
+      "district": "GÖRDES",
+      "neighborhoods": [
+        "MALAZ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "23.02.2026 15:40",
+      "end": "23.02.2026 16:40"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "ULU CAMİİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "23.02.2026 15:08",
+      "end": "23.02.2026 17:08"
     },
     {
       "city": "Manisa",
@@ -25,7 +56,8 @@
       "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
-        "BAKLACI"
+        "BAKLACI",
+        "KURTULUŞ"
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "23.02.2026 13:41",
