@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MERKEZ EFENDİ"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "23.02.2026 15:54",
-      "end": "23.02.2026 16:46"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
