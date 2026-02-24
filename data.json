@@ -1,15 +1,26 @@
 {
-  "count": 8,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "PINARBAŞI"
       ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 10:33",
-      "end": "24.02.2026 11:33"
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "24.02.2026 11:51",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BEŞEYLÜL",
+        "SOĞUKSU"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "24.02.2026 10:54",
+      "end": "24.02.2026 12:54"
     },
     {
       "city": "Manisa",
@@ -20,7 +31,7 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "24.02.2026 10:16",
-      "end": "24.02.2026 12:16"
+      "end": "24.02.2026 10:54"
     },
     {
       "city": "Manisa",
@@ -34,56 +45,12 @@
     },
     {
       "city": "Manisa",
-      "district": "SARIGÖL",
-      "neighborhoods": [
-        "AYAN",
-        "CUMHURİYET",
-        "KONAK",
-        "MİMAR SİNAN"
-      ],
-      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 09:40",
-      "end": "24.02.2026 11:40"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "MURADİYE"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "24.02.2026 09:30",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "YILDIZ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 09:29",
-      "end": "24.02.2026 11:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ATATÜRK",
-        "YEDİ EYLÜL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 09:26",
-      "end": "24.02.2026 11:26"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "İSTASYON"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 09:25",
       "end": "Süre Verilememekte"
     }
   ]
