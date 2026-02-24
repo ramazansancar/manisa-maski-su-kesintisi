@@ -1,16 +1,6 @@
 {
-  "count": 5,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MUTLU"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 15:59",
-      "end": "24.02.2026 16:59"
-    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
@@ -39,16 +29,6 @@
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "24.02.2026 10:33",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "24.02.2026 09:30",
       "end": "Süre Verilememekte"
     }
   ]
