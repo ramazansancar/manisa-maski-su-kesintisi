@@ -1,4 +1,25 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "25.02.2026 10:05",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "25.02.2026 10:05",
+      "end": "25.02.2026 12:00"
+    }
+  ]
 }
