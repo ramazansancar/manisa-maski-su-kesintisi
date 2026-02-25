@@ -1,50 +1,25 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 15:10",
-      "end": "25.02.2026 15:55"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 14:54",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "SPİL"
+        "AKGEDİK"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 14:46",
-      "end": "25.02.2026 16:46"
+      "start": "25.02.2026 16:24",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "KÖPRÜBAŞI",
       "neighborhoods": [
-        "TEPEKÖY"
+        "NAMIK KEMAL"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 14:22",
-      "end": "25.02.2026 16:10"
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "25.02.2026 16:20",
+      "end": "25.02.2026 19:20"
     }
   ]
 }
