@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "NAMIK KEMAL"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 16:20",
-      "end": "25.02.2026 19:20"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
