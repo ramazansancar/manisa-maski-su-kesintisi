@@ -1,25 +1,15 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "HACI İSHAK"
+        "TEPEKÖY"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 11:25",
-      "end": "25.02.2026 13:25"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HÜRRİYET"
-      ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "25.02.2026 11:16",
-      "end": "25.02.2026 13:16"
+      "start": "25.02.2026 14:22",
+      "end": "25.02.2026 17:22"
     },
     {
       "city": "Manisa",
