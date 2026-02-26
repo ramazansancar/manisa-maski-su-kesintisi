@@ -1,36 +1,4 @@
 {
-  "count": 3,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "2.ANAFARTALAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "26.02.2026 15:47",
-      "end": "26.02.2026 17:47"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.02.2026 15:00",
-      "end": "26.02.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.02.2026 14:42",
-      "end": "26.02.2026 17:42"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
