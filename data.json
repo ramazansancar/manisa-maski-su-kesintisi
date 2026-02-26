@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "İSTASYONALTI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.02.2026 11:51",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "SOMA",
@@ -20,17 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "26.02.2026 11:40",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.02.2026 11:01",
-      "end": "26.02.2026 13:01"
     }
   ]
 }
