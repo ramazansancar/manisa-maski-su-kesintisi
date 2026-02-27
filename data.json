@@ -3,9 +3,35 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 18:21",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ERGENEKON"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 17:50",
+      "end": "27.02.2026 18:50"
+    },
+    {
+      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
-        "CUMA"
+        "CUMA",
+        "KARAMANLI",
+        "SAMSACI"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "27.02.2026 17:11",
@@ -19,34 +45,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "27.02.2026 16:31",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BAKLACI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 15:58",
-      "end": "27.02.2026 17:25"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "PAŞA",
-        "RAGIP BEY",
-        "REŞAT BEY"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 15:52",
       "end": "Süre Verilememekte"
     },
     {
