@@ -1,6 +1,37 @@
 {
-  "count": 5,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 12:20",
+      "end": "27.02.2026 14:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "GÖRDES",
+      "neighborhoods": [
+        "ÇİĞİLLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 12:10",
+      "end": "27.02.2026 13:10"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "MUSTAFA KEMAL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 11:58",
+      "end": "27.02.2026 14:00"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -29,34 +60,6 @@
       ],
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "27.02.2026 10:46",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 10:10",
-      "end": "27.02.2026 11:22"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "AKINCILAR",
-        "DERE",
-        "EGE",
-        "GÖKTAŞLI",
-        "İBRAHİMÇELEBİ",
-        "MİMARSİNAN",
-        "SARUHAN",
-        "TUNCA",
-        "ÇARŞI"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 08:43",
       "end": "Süre Verilememekte"
     }
   ]
