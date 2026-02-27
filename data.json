@@ -1,4 +1,23 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "AKINCILAR",
+        "DERE",
+        "EGE",
+        "GÖKTAŞLI",
+        "İBRAHİMÇELEBİ",
+        "MİMARSİNAN",
+        "SARUHAN",
+        "TUNCA",
+        "ÇARŞI"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "27.02.2026 08:43",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
