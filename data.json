@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
@@ -31,18 +31,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "27.02.2026 18:21",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMA",
-        "KARAMANLI",
-        "SAMSACI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 17:11",
       "end": "Süre Verilememekte"
     },
     {
