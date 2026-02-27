@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
@@ -14,23 +14,13 @@
     },
     {
       "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "ÇİĞİLLER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 12:10",
-      "end": "27.02.2026 13:10"
-    },
-    {
-      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "MUSTAFA KEMAL"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "27.02.2026 11:58",
-      "end": "27.02.2026 14:00"
+      "end": "27.02.2026 13:16"
     },
     {
       "city": "Manisa",
