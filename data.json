@@ -3,6 +3,26 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "BAĞCILAR"
+      ],
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:37",
+      "end": "28.02.2026 13:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:28",
+      "end": "28.02.2026 11:28"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "ADAKALE",
@@ -11,26 +31,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "28.02.2026 07:39",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "HACIYUSUF"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 16:31",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "ZAFER"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "27.02.2026 10:46",
       "end": "Süre Verilememekte"
     }
   ]
