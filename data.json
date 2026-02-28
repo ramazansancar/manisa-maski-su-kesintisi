@@ -1,6 +1,70 @@
 {
-  "count": 3,
+  "count": 8,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "ZAFER"
+      ],
+      "description": "YAĞMUR SUYU HATTI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 10:18",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 10:02",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "TEVFİKİYE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:56",
+      "end": "28.02.2026 13:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:56",
+      "end": "28.02.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "KARAKURT"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:54",
+      "end": "28.02.2026 12:25"
+    },
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "MEHMET AKİF ERSOY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 09:49",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
@@ -20,18 +84,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "28.02.2026 09:28",
       "end": "28.02.2026 11:28"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "SARUHAN",
-        "TUNCA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "28.02.2026 07:39",
-      "end": "Süre Verilememekte"
     }
   ]
 }
