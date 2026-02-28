@@ -3,6 +3,18 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "DİLŞİKAR",
+        "EGE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "28.02.2026 15:53",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "ATATÜRK",
@@ -24,18 +36,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "28.02.2026 15:09",
       "end": "28.02.2026 18:09"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "28.02.2026 14:39",
-      "end": "28.02.2026 15:05"
     },
     {
       "city": "Manisa",
