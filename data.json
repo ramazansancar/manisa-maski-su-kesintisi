@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "ZAFER"
-      ],
-      "description": "YAĞMUR SUYU HATTI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "28.02.2026 10:18",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
