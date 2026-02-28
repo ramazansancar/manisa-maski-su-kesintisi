@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
@@ -38,16 +38,6 @@
     },
     {
       "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "TEVFİKİYE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "28.02.2026 09:56",
-      "end": "28.02.2026 13:00"
-    },
-    {
-      "city": "Manisa",
       "district": "KÖPRÜBAŞI",
       "neighborhoods": [
         "MEHMET AKİF ERSOY"
@@ -55,16 +45,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "28.02.2026 09:49",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "BAĞCILAR"
-      ],
-      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
-      "start": "28.02.2026 09:37",
-      "end": "28.02.2026 13:00"
     }
   ]
 }
