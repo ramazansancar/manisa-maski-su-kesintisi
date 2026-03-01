@@ -1,6 +1,35 @@
 {
-  "count": 6,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ESEN TEPE",
+        "HACIBEY",
+        "ŞEYH SİNAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "01.03.2026 13:09",
+      "end": "01.03.2026 19:09"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "HÜRRİYET",
+        "İNÖNÜ",
+        "PAŞA",
+        "RAGIP BEY"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "01.03.2026 12:56",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "KIRKAĞAÇ",
@@ -28,7 +57,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "01.03.2026 11:36",
-      "end": "01.03.2026 12:21"
+      "end": "01.03.2026 12:56"
     },
     {
       "city": "Manisa",
@@ -43,16 +72,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "01.03.2026 11:35",
       "end": "01.03.2026 14:35"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.03.2026 11:21",
-      "end": "01.03.2026 13:21"
     },
     {
       "city": "Manisa",
