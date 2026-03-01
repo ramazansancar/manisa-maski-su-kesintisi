@@ -1,16 +1,6 @@
 {
-  "count": 5,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "KOLDERE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.03.2026 14:48",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -21,7 +11,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "01.03.2026 13:09",
-      "end": "01.03.2026 19:09"
+      "end": "01.03.2026 16:08"
     },
     {
       "city": "Manisa",
@@ -51,16 +41,6 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "01.03.2026 11:46",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "CABERFAKILI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.03.2026 11:10",
-      "end": "01.03.2026 16:10"
     }
   ]
 }
