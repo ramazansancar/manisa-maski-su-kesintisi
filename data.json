@@ -1,18 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ESEN TEPE",
-        "HACIBEY",
-        "ŞEYH SİNAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.03.2026 13:09",
-      "end": "01.03.2026 16:08"
-    },
     {
       "city": "Manisa",
       "district": "AKHİSAR",
