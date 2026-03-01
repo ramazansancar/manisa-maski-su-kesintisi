@@ -1,23 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "PAŞA",
-        "RAGIP BEY"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "01.03.2026 12:56",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "KIRKAĞAÇ",
