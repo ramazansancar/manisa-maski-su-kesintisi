@@ -1,6 +1,56 @@
 {
-  "count": 3,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "GÖRDES",
+      "neighborhoods": [
+        "AKPINAR"
+      ],
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 12:00",
+      "end": "02.03.2026 14:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "TATLIÇEŞME"
+      ],
+      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 11:39",
+      "end": "02.03.2026 15:39"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 11:30",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "HALİTPAŞA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 11:28",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "BAYINDIRLIK"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 10:37",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -19,16 +69,6 @@
       ],
       "description": "BORU PATLAĞI Sebebiyle Su Kesintisi",
       "start": "02.03.2026 08:55",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "02.03.2026 08:04",
       "end": "Süre Verilememekte"
     }
   ]
