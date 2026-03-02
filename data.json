@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ESEN TEPE"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "02.03.2026 15:09",
-      "end": "03.03.2026 01:00"
-    },
     {
       "city": "Manisa",
       "district": "AHMETLİ",
