@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ESEN TEPE"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "02.03.2026 15:09",
+      "end": "03.03.2026 01:00"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "KUŞLUBAHÇE"
@@ -10,16 +20,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "02.03.2026 14:32",
       "end": "02.03.2026 16:32"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "TATLIÇEŞME"
-      ],
-      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
-      "start": "02.03.2026 11:39",
-      "end": "02.03.2026 15:39"
     },
     {
       "city": "Manisa",
