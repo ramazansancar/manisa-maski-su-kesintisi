@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AKGEDİK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "02.03.2026 18:16",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
