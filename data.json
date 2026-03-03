@@ -1,35 +1,4 @@
 {
-  "count": 3,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "GÖKÇEKÖY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 18:06",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "KURTULUŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 08:50",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "ZAFER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 08:43",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
