@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
@@ -10,18 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.03.2026 18:06",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 17:08",
-      "end": "03.03.2026 18:37"
     },
     {
       "city": "Manisa",
