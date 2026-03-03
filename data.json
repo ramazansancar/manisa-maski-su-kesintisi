@@ -1,15 +1,16 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "GİRELLİ"
+        "UTKU",
+        "ÇARŞI"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 13:00",
-      "end": "03.03.2026 15:00"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "03.03.2026 14:41",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -24,16 +25,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "03.03.2026 12:13",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "CABERFAKILI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 10:53",
-      "end": "03.03.2026 15:00"
     },
     {
       "city": "Manisa",
