@@ -1,6 +1,16 @@
 {
-  "count": 5,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "GİRELLİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "03.03.2026 13:00",
+      "end": "03.03.2026 15:00"
+    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -23,7 +33,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.03.2026 10:53",
-      "end": "03.03.2026 12:53"
+      "end": "03.03.2026 15:00"
     },
     {
       "city": "Manisa",
