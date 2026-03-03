@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "CABERFAKILI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "03.03.2026 10:53",
+      "end": "03.03.2026 12:53"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "1.ANAFARTALAR",
@@ -13,7 +23,7 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "03.03.2026 10:46",
-      "end": "03.03.2026 11:46"
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -46,16 +56,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.03.2026 10:00",
       "end": "03.03.2026 12:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "AHMET BEDEVİ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 09:35",
-      "end": "03.03.2026 11:35"
     },
     {
       "city": "Manisa",
