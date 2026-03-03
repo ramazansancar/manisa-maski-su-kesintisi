@@ -1,6 +1,20 @@
 {
-  "count": 7,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR",
+        "AHMET BEDEVİ",
+        "PEKER",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "03.03.2026 12:13",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -13,20 +27,6 @@
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "PEKER",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 10:46",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "AKGEDİK"
@@ -34,28 +34,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "03.03.2026 10:12",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ESEN TEPE",
-        "HACIBEY",
-        "ŞEYH SİNAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 10:11",
-      "end": "03.03.2026 12:12"
-    },
-    {
-      "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "HÜSEYNİ BABA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.03.2026 10:00",
-      "end": "03.03.2026 12:00"
     },
     {
       "city": "Manisa",
