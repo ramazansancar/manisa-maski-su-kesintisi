@@ -1,25 +1,4 @@
 {
-  "count": 2,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "TİRKEŞ"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 16:38",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "MEHMET AKİF ERSOY"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 09:51",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
