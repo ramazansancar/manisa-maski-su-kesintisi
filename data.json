@@ -3,36 +3,38 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SELENDİ",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "HALILAR"
+        "ÇAĞLAYAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 15:54",
-      "end": "Süre Verilememekte"
+      "start": "04.03.2026 17:01",
+      "end": "04.03.2026 19:01"
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "HÜRRİYET"
+        "BARIŞ",
+        "BEŞEYLÜL",
+        "ILICA",
+        "MENDERES",
+        "SARISU",
+        "SOĞUKSU",
+        "YENİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 15:19",
-      "end": "04.03.2026 15:57"
+      "start": "04.03.2026 16:41",
+      "end": "04.03.2026 19:41"
     },
     {
       "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
+        "TİRKEŞ"
       ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 15:00",
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "04.03.2026 16:38",
       "end": "Süre Verilememekte"
     },
     {
