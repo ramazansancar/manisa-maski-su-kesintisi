@@ -1,4 +1,15 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "ZAFER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "04.03.2026 08:39",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
