@@ -1,32 +1,6 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ÇAĞLAYAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 17:01",
-      "end": "04.03.2026 19:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BARIŞ",
-        "BEŞEYLÜL",
-        "ILICA",
-        "MENDERES",
-        "SARISU",
-        "SOĞUKSU",
-        "YENİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 16:41",
-      "end": "04.03.2026 19:41"
-    },
     {
       "city": "Manisa",
       "district": "SARUHANLI",
