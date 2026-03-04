@@ -1,25 +1,16 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "SELENDİ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KAYRANLAR"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 09:55",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "VEZİROĞLU"
+        "MERKEZ EFENDİ",
+        "TEVFİKİYE"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "04.03.2026 09:51",
-      "end": "04.03.2026 11:51"
+      "start": "04.03.2026 11:57",
+      "end": "04.03.2026 13:57"
     },
     {
       "city": "Manisa",
