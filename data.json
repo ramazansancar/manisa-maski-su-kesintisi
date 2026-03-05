@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 23:05",
-      "end": "06.03.2026 00:00"
-    },
     {
       "city": "Manisa",
       "district": "KÖPRÜBAŞI",
