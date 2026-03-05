@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 23:05",
+      "end": "06.03.2026 00:00"
+    },
+    {
+      "city": "Manisa",
       "district": "KÖPRÜBAŞI",
       "neighborhoods": [
         "GÜLPINAR"
@@ -20,23 +30,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "05.03.2026 20:53",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "PAŞA",
-        "RAGIP BEY"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 20:30",
-      "end": "06.03.2026 05:00"
     }
   ]
 }
