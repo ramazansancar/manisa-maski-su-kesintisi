@@ -1,44 +1,15 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ATATÜRK",
-        "CUMHURİYET",
-        "HACI İSHAK",
-        "HAS HOCA",
-        "HÜRRİYET",
-        "İNÖNÜ",
-        "PAŞA",
-        "RAGIP BEY"
+        "AKGEDİK"
       ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 20:30",
-      "end": "05.03.2026 05:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 17:34",
-      "end": "05.03.2026 19:34"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 17:30",
-      "end": "05.03.2026 19:30"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 20:53",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
