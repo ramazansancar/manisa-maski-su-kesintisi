@@ -3,43 +3,45 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "ŞAİR EŞREF"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 15:15",
-      "end": "05.03.2026 17:15"
-    },
-    {
-      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
-        "HACIRAHMANLI"
+        "HALİTPAŞA"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 14:32",
-      "end": "Süre Verilememekte"
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 17:45",
+      "end": "05.03.2026 19:45"
     },
     {
       "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
-        "HACI İSHAK"
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 13:44",
-      "end": "05.03.2026 17:44"
+      "start": "05.03.2026 17:34",
+      "end": "05.03.2026 19:34"
     },
     {
       "city": "Manisa",
-      "district": "SALİHLİ",
+      "district": "KULA",
       "neighborhoods": [
-        "DURASILLI"
+        "4 EYLÜL"
       ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 11:20",
-      "end": "05.03.2026 16:30"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 17:30",
+      "end": "05.03.2026 19:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 16:00",
+      "end": "05.03.2026 18:00"
     },
     {
       "city": "Manisa",
