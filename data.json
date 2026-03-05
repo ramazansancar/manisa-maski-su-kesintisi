@@ -1,17 +1,6 @@
 {
-  "count": 8,
+  "count": 6,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 11:24",
-      "end": "05.03.2026 12:24"
-    },
     {
       "city": "Manisa",
       "district": "KIRKAĞAÇ",
@@ -31,16 +20,6 @@
       "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "05.03.2026 11:20",
       "end": "05.03.2026 16:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HACIRAHMANLI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 10:26",
-      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
