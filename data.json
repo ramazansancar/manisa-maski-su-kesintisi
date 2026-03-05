@@ -1,15 +1,22 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "HALİTPAŞA"
+        "ATATÜRK",
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "HÜRRİYET",
+        "İNÖNÜ",
+        "PAŞA",
+        "RAGIP BEY"
       ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 17:45",
-      "end": "05.03.2026 19:45"
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 20:30",
+      "end": "05.03.2026 05:00"
     },
     {
       "city": "Manisa",
@@ -32,16 +39,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "05.03.2026 17:30",
       "end": "05.03.2026 19:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "ŞAİR EŞREF"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 16:00",
-      "end": "05.03.2026 18:00"
     },
     {
       "city": "Manisa",
