@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "MEHMET AKİF ERSOY"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 19:45",
-      "end": "06.03.2026 22:45"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
