@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "SELENDİ",
       "neighborhoods": [
-        "KAZIM KARABEKİR"
+        "MOLLAAHMETLER"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 09:40",
-      "end": "06.03.2026 10:40"
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 09:59",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
