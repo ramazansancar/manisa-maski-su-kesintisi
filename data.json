@@ -1,27 +1,25 @@
 {
-  "count": 7,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "ATATÜRK",
-        "MUSTAFA KEMAL",
-        "YEDİ EYLÜL"
+        "ÇAMLIBEL"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 14:33",
-      "end": "06.03.2026 15:33"
+      "start": "06.03.2026 15:21",
+      "end": "06.03.2026 17:21"
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "BÜYÜKBELEN"
+        "SEYİT AHMET"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 14:00",
-      "end": "Süre Verilememekte"
+      "start": "06.03.2026 15:03",
+      "end": "06.03.2026 16:07"
     },
     {
       "city": "Manisa",
@@ -61,16 +59,6 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "06.03.2026 09:22",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "GÜLPINAR"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 21:10",
       "end": "Süre Verilememekte"
     }
   ]
