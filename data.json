@@ -5,22 +5,21 @@
       "city": "Manisa",
       "district": "SELENDİ",
       "neighborhoods": [
+        "ÇAMYAYLA"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 11:28",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
         "MOLLAAHMETLER"
       ],
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "06.03.2026 09:59",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KUYUALAN",
-        "TEVFİKİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 09:36",
-      "end": "06.03.2026 11:36"
     },
     {
       "city": "Manisa",
