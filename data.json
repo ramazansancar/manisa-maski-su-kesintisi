@@ -1,6 +1,38 @@
 {
-  "count": 4,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ATATÜRK",
+        "MUSTAFA KEMAL",
+        "YEDİ EYLÜL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 14:33",
+      "end": "06.03.2026 15:33"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "BÜYÜKBELEN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 14:00",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "DURASILLI"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 13:47",
+      "end": "06.03.2026 17:00"
+    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
