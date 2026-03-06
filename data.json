@@ -1,15 +1,26 @@
 {
-  "count": 2,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "GÜLPINAR"
+        "KAZIM KARABEKİR"
       ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 21:10",
-      "end": "Süre Verilememekte"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 09:40",
+      "end": "06.03.2026 10:40"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KUYUALAN",
+        "TEVFİKİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.03.2026 09:36",
+      "end": "06.03.2026 11:36"
     },
     {
       "city": "Manisa",
@@ -18,7 +29,17 @@
         "AKGEDİK"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "05.03.2026 20:53",
+      "start": "06.03.2026 09:22",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "GÜLPINAR"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "05.03.2026 21:10",
       "end": "Süre Verilememekte"
     }
   ]
