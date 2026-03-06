@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -10,36 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "06.03.2026 17:05",
       "end": "06.03.2026 19:05"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ÇAMLIBEL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 15:21",
-      "end": "06.03.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "ÇAMYAYLA"
-      ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 11:28",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "MOLLAAHMETLER"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.03.2026 09:59",
-      "end": "Süre Verilememekte"
     }
   ]
 }
