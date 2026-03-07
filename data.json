@@ -3,6 +3,18 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ATATÜRK",
+        "MUSTAFA KEMAL",
+        "YEDİ EYLÜL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "07.03.2026 11:33",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
         "REŞAT BEY",
@@ -10,17 +22,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "07.03.2026 10:54",
-      "end": "07.03.2026 12:54"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "07.03.2026 10:01",
-      "end": "07.03.2026 12:01"
+      "end": "07.03.2026 11:44"
     }
   ]
 }
