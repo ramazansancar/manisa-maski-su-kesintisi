@@ -3,6 +3,17 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "REŞAT BEY",
+        "SEYİT AHMET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "07.03.2026 10:54",
+      "end": "07.03.2026 12:54"
+    },
+    {
+      "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
         "MURADİYE"
@@ -10,18 +21,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "07.03.2026 10:01",
       "end": "07.03.2026 12:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.03.2026 09:35",
-      "end": "07.03.2026 11:35"
     }
   ]
 }
