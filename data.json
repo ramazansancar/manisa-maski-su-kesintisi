@@ -3,13 +3,33 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "MURADİYE"
+        "YEDİ EYLÜL"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 15:36",
-      "end": "09.03.2026 17:36"
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 16:48",
+      "end": "09.03.2026 18:48"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "CİNOSMAN",
+        "HACIHİMMET",
+        "HIDIRAĞA",
+        "KADRİYE",
+        "KARAALİ",
+        "KAYADİBİ",
+        "KOCAMEHMETAĞA",
+        "MEMİŞ",
+        "MUSALAR",
+        "TEVFİKİYE",
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 16:28",
+      "end": "09.03.2026 19:28"
     },
     {
       "city": "Manisa",
@@ -29,16 +49,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.03.2026 14:55",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 14:44",
       "end": "Süre Verilememekte"
     }
   ]
