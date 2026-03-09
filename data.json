@@ -1,4 +1,50 @@
 {
-  "count": 0,
-  "data": []
+  "count": 4,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 10:50",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "DUMANLAR"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 10:47",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "MEHMET AKİF ERSOY"
+      ],
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 10:00",
+      "end": "09.03.2026 16:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HÜRRİYET",
+        "RAGIP BEY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 09:35",
+      "end": "09.03.2026 10:00"
+    }
+  ]
 }
