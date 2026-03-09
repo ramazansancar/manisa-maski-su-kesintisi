@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
@@ -9,17 +9,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.03.2026 11:16",
-      "end": "09.03.2026 13:16"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 11:16",
-      "end": "09.03.2026 13:16"
+      "end": "09.03.2026 14:45"
     },
     {
       "city": "Manisa",
