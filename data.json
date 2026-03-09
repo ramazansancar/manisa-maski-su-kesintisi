@@ -3,43 +3,43 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "HÜRRİYET"
+        "MURADİYE"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 11:16",
-      "end": "09.03.2026 14:45"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 15:36",
+      "end": "09.03.2026 17:36"
     },
     {
       "city": "Manisa",
-      "district": "SELENDİ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ÇALIKLI"
+        "AKGEDİK"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 10:54",
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 15:36",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "SELENDİ",
+      "district": "SOMA",
       "neighborhoods": [
-        "DUMANLAR"
+        "CUMHURİYET"
       ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 10:47",
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 14:55",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
+      "district": "KULA",
       "neighborhoods": [
-        "MEHMET AKİF ERSOY"
+        "4 EYLÜL"
       ],
-      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 10:00",
-      "end": "09.03.2026 16:00"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.03.2026 14:44",
+      "end": "Süre Verilememekte"
     }
   ]
 }
