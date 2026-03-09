@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
@@ -23,36 +23,12 @@
     },
     {
       "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "AKGÜN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 11:01",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "SELENDİ",
       "neighborhoods": [
         "ÇALIKLI"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.03.2026 10:54",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "09.03.2026 10:50",
       "end": "Süre Verilememekte"
     },
     {
