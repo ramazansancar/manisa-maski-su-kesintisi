@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "EVRENOS"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "10.03.2026 13:53",
+      "end": "10.03.2026 14:53"
+    },
+    {
+      "city": "Manisa",
       "district": "ŞEHZADELER",
       "neighborhoods": [
         "AKPINAR",
@@ -62,25 +72,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "10.03.2026 10:09",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BEŞEYLÜL",
-        "FATİH",
-        "HACIBEY",
-        "İSTASYON",
-        "KURTULUŞ",
-        "SAKARYA",
-        "SARISU",
-        "SOĞUKSU",
-        "YENİ",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "10.03.2026 10:08",
-      "end": "10.03.2026 12:30"
     },
     {
       "city": "Manisa",
