@@ -3,6 +3,27 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "AKPINAR",
+        "NURLUPINAR"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "10.03.2026 12:57",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "TURGUT ÖZAL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "10.03.2026 12:55",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "KULA",
       "neighborhoods": [
         "4 EYLÜL"
@@ -10,26 +31,6 @@
       "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "10.03.2026 12:44",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "YENİKÖY"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "10.03.2026 12:24",
-      "end": "10.03.2026 13:24"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "10.03.2026 11:12",
-      "end": "10.03.2026 13:12"
     },
     {
       "city": "Manisa",
