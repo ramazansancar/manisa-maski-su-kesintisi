@@ -1,6 +1,53 @@
 {
-  "count": 3,
+  "count": 7,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "AKSOY",
+        "BARIŞ",
+        "NAMIK KEMAL",
+        "SAĞLIK",
+        "SEYRANTEPE",
+        "YEŞİLYURT",
+        "ÖZYURT",
+        "ŞEHİTLER"
+      ],
+      "description": "TELEKOMÜNİKASYON KAZISI Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 15:47",
+      "end": "11.03.2026 18:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 15:16",
+      "end": "11.03.2026 18:16"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ALİBEYLİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 14:44",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 14:30",
+      "end": "11.03.2026 17:30"
+    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
