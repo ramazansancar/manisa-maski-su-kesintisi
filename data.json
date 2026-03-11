@@ -1,6 +1,30 @@
 {
-  "count": 7,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 17:23",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "REŞAT BEY",
+        "SEYİT AHMET",
+        "ULU CAMİİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "11.03.2026 16:59",
+      "end": "11.03.2026 17:32"
+    },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
@@ -26,57 +50,7 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "11.03.2026 15:16",
-      "end": "11.03.2026 18:16"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ALİBEYLİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.03.2026 14:44",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "ŞAİR EŞREF"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "11.03.2026 14:30",
-      "end": "11.03.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TURGUT ÖZAL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "11.03.2026 12:09",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "GÖLBAŞI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.03.2026 09:06",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "ÇAMKÖY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.03.2026 09:06",
-      "end": "Süre Verilememekte"
+      "end": "11.03.2026 17:19"
     }
   ]
 }
