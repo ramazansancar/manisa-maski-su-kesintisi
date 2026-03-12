@@ -1,15 +1,34 @@
 {
-  "count": 1,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "DEMİRCİ",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "BAHÇELER",
-        "MİTHATPAŞA"
+        "CUMHURİYET"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "12.03.2026 11:15",
+      "start": "12.03.2026 16:00",
+      "end": "12.03.2026 18:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 15:30",
+      "end": "12.03.2026 17:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "ZAFER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 14:57",
       "end": "Süre Verilememekte"
     }
   ]
