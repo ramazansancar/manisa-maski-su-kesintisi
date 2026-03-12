@@ -1,15 +1,41 @@
 {
-  "count": 3,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BARIŞ",
+        "BEŞEYLÜL",
+        "MENDERES",
+        "YENİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 11:45",
+      "end": "12.03.2026 13:45"
+    },
+    {
+      "city": "Manisa",
+      "district": "DEMİRCİ",
+      "neighborhoods": [
+        "BAHÇELER",
+        "MİTHATPAŞA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 11:15",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
-        "ULU CAMİİ"
+        "KETHÜDA",
+        "REŞAT BEY",
+        "SEYİT AHMET"
       ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "12.03.2026 09:47",
-      "end": "12.03.2026 11:47"
+      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 10:49",
+      "end": "12.03.2026 12:49"
     },
     {
       "city": "Manisa",
@@ -20,16 +46,6 @@
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "12.03.2026 09:45",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "SEYİTALİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "12.03.2026 09:42",
-      "end": "12.03.2026 11:15"
     }
   ]
 }
