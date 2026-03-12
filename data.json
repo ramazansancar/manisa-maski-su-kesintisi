@@ -1,4 +1,35 @@
 {
-  "count": 0,
-  "data": []
+  "count": 3,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "ULU CAMİİ"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 09:47",
+      "end": "12.03.2026 11:47"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MESİR"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 09:45",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "SEYİTALİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "12.03.2026 09:42",
+      "end": "12.03.2026 11:15"
+    }
+  ]
 }
