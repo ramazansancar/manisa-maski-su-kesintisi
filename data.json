@@ -1,25 +1,19 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
       "district": "AKHİSAR",
       "neighborhoods": [
-        "CUMHURİYET"
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "PAŞA",
+        "ŞEYHİSA"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "12.03.2026 16:00",
       "end": "12.03.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "ŞAİR EŞREF"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "12.03.2026 15:30",
-      "end": "12.03.2026 17:30"
     },
     {
       "city": "Manisa",
