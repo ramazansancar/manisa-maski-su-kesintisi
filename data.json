@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -24,16 +24,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "13.03.2026 16:56",
       "end": "13.03.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "YILMAZ"
-      ],
-      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "13.03.2026 16:11",
-      "end": "13.03.2026 18:30"
     }
   ]
 }
