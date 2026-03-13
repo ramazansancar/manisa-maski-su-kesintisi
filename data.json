@@ -1,4 +1,56 @@
 {
-  "count": 0,
-  "data": []
+  "count": 5,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "TEVFİKİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 09:59",
+      "end": "13.03.2026 10:59"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KUYUALAN"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 09:47",
+      "end": "13.03.2026 11:47"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ÇARŞI"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 09:46",
+      "end": "13.03.2026 10:46"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "SUBAŞI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 09:33",
+      "end": "13.03.2026 10:33"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MUTLU",
+        "TOPÇUASIM"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 08:59",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
