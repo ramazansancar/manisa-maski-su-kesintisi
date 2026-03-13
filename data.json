@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
@@ -17,14 +17,23 @@
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "UTKU",
-        "ÇARŞI"
+        "KAVAKLIDERE"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "13.03.2026 15:29",
-      "end": "13.03.2026 17:29"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 16:56",
+      "end": "13.03.2026 17:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "YILMAZ"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "13.03.2026 16:11",
+      "end": "13.03.2026 18:30"
     }
   ]
 }
