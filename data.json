@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -14,16 +14,6 @@
       "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
       "start": "14.03.2026 10:00",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "KAVAKLIDERE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.03.2026 16:56",
-      "end": "13.03.2026 17:30"
     }
   ]
 }
