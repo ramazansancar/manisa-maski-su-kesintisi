@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -10,27 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "14.03.2026 18:54",
       "end": "14.03.2026 21:54"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ALTAY",
-        "ATATÜRK",
-        "CUMHURİYET",
-        "KURTULUŞ",
-        "MUSTAFA KEMAL",
-        "SUBAŞI",
-        "TURAN",
-        "TURGUTLAR",
-        "YEDİ EYLÜL",
-        "YENİ",
-        "YILMAZLAR",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.03.2026 17:18",
-      "end": "Süre Verilememekte"
     }
   ]
 }
