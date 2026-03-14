@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "ŞAİR EŞREF"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "14.03.2026 18:54",
+      "end": "14.03.2026 21:54"
+    },
+    {
+      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "ALTAY",
@@ -21,16 +31,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "14.03.2026 17:18",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "İNÖNÜ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.03.2026 16:58",
-      "end": "14.03.2026 19:00"
     }
   ]
 }
