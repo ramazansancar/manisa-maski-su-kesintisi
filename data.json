@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "ŞAİR EŞREF"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.03.2026 18:54",
-      "end": "14.03.2026 21:54"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
