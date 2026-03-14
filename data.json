@@ -5,12 +5,18 @@
       "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
-        "ACARLAR",
         "ALTAY",
+        "ATATÜRK",
         "CUMHURİYET",
+        "KURTULUŞ",
+        "MUSTAFA KEMAL",
         "SUBAŞI",
+        "TURAN",
+        "TURGUTLAR",
+        "YEDİ EYLÜL",
         "YENİ",
-        "YILMAZLAR"
+        "YILMAZLAR",
+        "ŞEHİTLER"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "14.03.2026 17:18",
