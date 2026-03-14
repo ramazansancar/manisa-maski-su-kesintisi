@@ -3,13 +3,14 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "AKGEDİK"
+        "1.ANAFARTALAR",
+        "PEKER"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.03.2026 11:00",
-      "end": "14.03.2026 13:00"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "14.03.2026 13:10",
+      "end": "14.03.2026 15:10"
     }
   ]
 }
