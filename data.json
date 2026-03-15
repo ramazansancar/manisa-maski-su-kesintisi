@@ -1,4 +1,30 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMA",
+        "KARAMANLI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.03.2026 22:17",
+      "end": "15.03.2026 23:17"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.03.2026 22:11",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
