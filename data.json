@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "KIRKAĞAÇ",
       "neighborhoods": [
-        "DİLEK"
+        "ŞAİR EŞREF"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 18:36",
-      "end": "Süre Verilememekte"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.03.2026 21:30",
+      "end": "18.03.2026 00:30"
     },
     {
       "city": "Manisa",
