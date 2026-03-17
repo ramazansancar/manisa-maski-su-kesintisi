@@ -3,15 +3,29 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "HACI İSHAK",
-        "HÜRRİYET",
-        "İNÖNÜ"
+        "1.ANAFARTALAR",
+        "PEKER"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 10:54",
-      "end": "17.03.2026 11:54"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.03.2026 11:48",
+      "end": "17.03.2026 12:48"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "EGE",
+        "KOCATEPE",
+        "NİŞANCIPAŞA"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.03.2026 11:32",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -31,16 +45,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "16.03.2026 16:24",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "AKINCILAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.03.2026 11:30",
       "end": "Süre Verilememekte"
     }
   ]
