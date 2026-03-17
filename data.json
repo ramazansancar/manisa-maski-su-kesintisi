@@ -1,59 +1,15 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "MAREŞAL FEVZİ ÇAKMAK"
+        "CUMHURİYET",
+        "HAFSA SULTAN"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 14:35",
-      "end": "17.03.2026 15:35"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "YENİMAHALLE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 13:51",
-      "end": "17.03.2026 15:51"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TEPECİK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 13:51",
-      "end": "17.03.2026 14:51"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HACIRAHMANLI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 13:20",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "BAYINDIRLIK",
-        "DİLŞİKAR",
-        "EGE",
-        "KOCATEPE",
-        "NİŞANCIPAŞA"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.03.2026 11:32",
+      "start": "17.03.2026 14:48",
       "end": "Süre Verilememekte"
     }
   ]
