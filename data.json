@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
@@ -11,16 +11,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "18.03.2026 14:37",
       "end": "18.03.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "YEŞİLYURT"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.03.2026 12:19",
-      "end": "18.03.2026 13:45"
     },
     {
       "city": "Manisa",
