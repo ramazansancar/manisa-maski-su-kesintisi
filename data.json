@@ -1,6 +1,17 @@
 {
-  "count": 3,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "TAYTAN",
+        "ÇAVLU"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.03.2026 14:37",
+      "end": "18.03.2026 18:00"
+    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -9,7 +20,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "18.03.2026 12:19",
-      "end": "18.03.2026 15:00"
+      "end": "18.03.2026 13:45"
     },
     {
       "city": "Manisa",
