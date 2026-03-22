@@ -1,4 +1,25 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "TATLIÇEŞME"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "22.03.2026 14:11",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "TATLIÇEŞME"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "22.03.2026 14:11",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
