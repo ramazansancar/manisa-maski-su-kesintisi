@@ -1,18 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMA",
-        "HÜRRİYET",
-        "KARAMANLI",
-        "SAMSACI"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.03.2026 10:44",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
