@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -13,18 +13,6 @@
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "22.03.2026 10:44",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.03.2026 10:23",
-      "end": "22.03.2026 12:23"
     }
   ]
 }
