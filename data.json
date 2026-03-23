@@ -1,45 +1,6 @@
 {
-  "count": 4,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "BODUROĞLU",
-        "CİNOSMAN",
-        "HACIHİMMET",
-        "HIDIRAĞA",
-        "KADRİYE",
-        "KOCAMEHMETAĞA",
-        "MUSALAR",
-        "SARIAĞA",
-        "YENİ",
-        "ZORAĞA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "23.03.2026 10:48",
-      "end": "23.03.2026 13:48"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "ZAFER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "23.03.2026 10:17",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KAYAPINAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "23.03.2026 08:36",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "KULA",
