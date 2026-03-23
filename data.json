@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "KULA",
+      "district": "SELENDİ",
       "neighborhoods": [
-        "TATLIÇEŞME"
+        "KARŞIOVA"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.03.2026 14:11",
-      "end": "Süre Verilememekte"
+      "start": "23.03.2026 14:05",
+      "end": "23.03.2026 16:05"
     }
   ]
 }
