@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ERGENEKON"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "23.03.2026 15:29",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
@@ -28,7 +18,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "23.03.2026 15:06",
-      "end": "23.03.2026 18:06"
+      "end": "23.03.2026 19:00"
     }
   ]
 }
