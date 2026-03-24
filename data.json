@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "NİHAT DANIŞMAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.03.2026 11:45",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -20,17 +10,7 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "24.03.2026 10:43",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "TURGUT ÖZAL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "24.03.2026 10:01",
-      "end": "Süre Verilememekte"
+      "end": "24.03.2026 14:22"
     }
   ]
 }
