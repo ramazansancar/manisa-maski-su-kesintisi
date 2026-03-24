@@ -3,14 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "SOMA",
       "neighborhoods": [
-        "KAZIM KARABEKİR",
-        "NURLUPINAR"
+        "AVDAN"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "24.03.2026 10:43",
-      "end": "24.03.2026 14:22"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "24.03.2026 14:17",
+      "end": "Süre Verilememekte"
     }
   ]
 }
