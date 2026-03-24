@@ -1,14 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "SOMA",
+      "district": "KULA",
       "neighborhoods": [
-        "AVDAN"
+        "BEY"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.03.2026 14:17",
+      "start": "24.03.2026 15:53",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "YAĞCILAR"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "24.03.2026 15:02",
       "end": "Süre Verilememekte"
     }
   ]
