@@ -1,4 +1,17 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "KULA",
+      "neighborhoods": [
+        "AKGÜN",
+        "BEY",
+        "ZAFERİYE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "25.03.2026 08:47",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
