@@ -1,15 +1,49 @@
 {
-  "count": 2,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KAZIM KARABEKİR"
+        "50.YIL",
+        "ATATÜRK",
+        "MAREŞAL FEVZİ ÇAKMAK"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.03.2026 09:51",
-      "end": "27.03.2026 10:51"
+      "start": "27.03.2026 11:03",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BAKLACI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.03.2026 10:44",
+      "end": "27.03.2026 12:44"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ADİLOBA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "27.03.2026 10:37",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "LALAPAŞA",
+        "MUTLU",
+        "TOPÇUASIM"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "27.03.2026 10:26",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
