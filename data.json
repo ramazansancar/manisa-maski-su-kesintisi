@@ -1,25 +1,4 @@
 {
-  "count": 2,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KUŞLUBAHÇE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "28.03.2026 11:07",
-      "end": "28.03.2026 12:07"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KARAOĞLANLI"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "28.03.2026 10:36",
-      "end": "28.03.2026 12:36"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
