@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "PAŞA"
-      ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "29.03.2026 11:39",
-      "end": "29.03.2026 12:39"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -21,16 +11,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "29.03.2026 11:02",
       "end": "29.03.2026 14:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HACI İSHAK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.03.2026 10:24",
-      "end": "29.03.2026 11:39"
     }
   ]
 }
