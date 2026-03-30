@@ -1,17 +1,6 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "İBRAHİMÇELEBİ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.03.2026 12:05",
-      "end": "30.03.2026 14:05"
-    },
     {
       "city": "Manisa",
       "district": "KULA",
@@ -21,16 +10,6 @@
       "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "30.03.2026 11:02",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADNAN MENDERES"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.03.2026 10:54",
-      "end": "30.03.2026 12:54"
     }
   ]
 }
