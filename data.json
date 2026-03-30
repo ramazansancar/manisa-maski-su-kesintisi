@@ -1,6 +1,18 @@
 {
-  "count": 1,
+  "count": 3,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "FATİH",
+        "HACIBEY",
+        "SAKARYA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.03.2026 16:29",
+      "end": "30.03.2026 17:30"
+    },
     {
       "city": "Manisa",
       "district": "KULA",
@@ -9,6 +21,16 @@
       ],
       "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "30.03.2026 11:02",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "SEVİŞLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.03.2026 11:00",
       "end": "Süre Verilememekte"
     }
   ]
