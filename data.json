@@ -3,15 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "KÖPRÜBAŞI",
       "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "SAKARYA"
+        "NAMIK KEMAL"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "30.03.2026 16:29",
-      "end": "30.03.2026 17:30"
+      "start": "30.03.2026 17:12",
+      "end": "30.03.2026 19:12"
     },
     {
       "city": "Manisa",
