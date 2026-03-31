@@ -1,15 +1,52 @@
 {
-  "count": 1,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "SOMA",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "SEVİŞLER"
+        "ALAYBEY",
+        "BAYINDIRLIK",
+        "DİLŞİKAR",
+        "EGE",
+        "NİŞANCIPAŞA",
+        "SAKARYA",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "31.03.2026 10:12",
+      "end": "31.03.2026 12:12"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "TEPEKÖY"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "30.03.2026 11:00",
-      "end": "Süre Verilememekte"
+      "start": "31.03.2026 09:42",
+      "end": "31.03.2026 11:45"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "31.03.2026 09:39",
+      "end": "31.03.2026 11:39"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AYNİ ALİ",
+        "KUYUALAN"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "31.03.2026 09:26",
+      "end": "31.03.2026 11:26"
     }
   ]
 }
