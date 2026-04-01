@@ -3,24 +3,23 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "HAFSA SULTAN",
+        "YENİMAHALLE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "01.04.2026 13:31",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "ÇINAROBA"
       ],
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "01.04.2026 11:39",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ATATÜRK",
-        "MUSTAFA KEMAL",
-        "YEDİ EYLÜL"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.04.2026 11:22",
       "end": "Süre Verilememekte"
     },
     {
