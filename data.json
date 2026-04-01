@@ -3,6 +3,28 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ÇINAROBA"
+      ],
+      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
+      "start": "01.04.2026 11:39",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ATATÜRK",
+        "MUSTAFA KEMAL",
+        "YEDİ EYLÜL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "01.04.2026 11:22",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "SALİHLİ",
       "neighborhoods": [
         "KARAOĞLANLI"
@@ -10,27 +32,6 @@
       "description": "TELEKOMÜNİKASYON KAZISI Sebebiyle Su Kesintisi",
       "start": "01.04.2026 10:40",
       "end": "01.04.2026 15:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "GİRELLİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.04.2026 09:03",
-      "end": "01.04.2026 11:03"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MUTLU",
-        "TOPÇUASIM"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "01.04.2026 09:01",
-      "end": "01.04.2026 11:01"
     }
   ]
 }
