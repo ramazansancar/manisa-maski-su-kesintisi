@@ -1,27 +1,17 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "CUMHURİYET",
-        "FATİH",
-        "HAFSA SULTAN"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "02.04.2026 13:00",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "İSTASYON"
+        "ATATÜRK",
+        "REŞAT BEY",
+        "SEYİT AHMET"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "02.04.2026 11:00",
-      "end": "Süre Verilememekte"
+      "start": "02.04.2026 14:45",
+      "end": "02.04.2026 16:45"
     }
   ]
 }
