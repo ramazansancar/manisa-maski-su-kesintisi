@@ -3,24 +3,26 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "KULA",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "4 EYLÜL"
+        "AKINCILAR",
+        "İBRAHİMÇELEBİ",
+        "MİMARSİNAN",
+        "TUNCA"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "02.04.2026 09:56",
-      "end": "02.04.2026 11:29"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "02.04.2026 11:58",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "LALAPAŞA",
-        "MUTLU"
+        "SELCE"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "02.04.2026 09:18",
-      "end": "02.04.2026 11:18"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "02.04.2026 10:38",
+      "end": "Süre Verilememekte"
     }
   ]
 }
