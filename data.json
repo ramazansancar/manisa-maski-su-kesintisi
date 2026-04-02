@@ -1,17 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK",
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "02.04.2026 14:45",
-      "end": "02.04.2026 16:22"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
