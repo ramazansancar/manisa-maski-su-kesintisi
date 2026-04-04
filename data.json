@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "KULA",
       "neighborhoods": [
-        "ÇEŞNELİ"
+        "4 EYLÜL"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.04.2026 10:10",
-      "end": "Süre Verilememekte"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "04.04.2026 09:17",
+      "end": "04.04.2026 16:00"
     }
   ]
 }
