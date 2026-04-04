@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "04.04.2026 15:20",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "BÜYÜKBELEN"
@@ -10,16 +20,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "04.04.2026 13:31",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KULA",
-      "neighborhoods": [
-        "4 EYLÜL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "04.04.2026 09:17",
-      "end": "04.04.2026 16:00"
     }
   ]
 }
