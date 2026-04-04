@@ -3,12 +3,12 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "BÜYÜKBELEN"
+        "ÇEPNİBEKTAŞ"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.04.2026 13:31",
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "04.04.2026 20:12",
       "end": "Süre Verilememekte"
     }
   ]
