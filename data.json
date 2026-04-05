@@ -1,17 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.04.2026 12:17",
-      "end": "05.04.2026 13:17"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
