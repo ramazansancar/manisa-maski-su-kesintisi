@@ -1,28 +1,17 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "BAYINDIRLIK",
-        "GEDİZ",
-        "İSHAKÇELEBI",
-        "KOCATEPE"
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "05.04.2026 10:01",
-      "end": "05.04.2026 12:01"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ÇEPNİBEKTAŞ"
-      ],
-      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.04.2026 20:12",
-      "end": "Süre Verilememekte"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.04.2026 12:17",
+      "end": "05.04.2026 13:17"
     }
   ]
 }
