@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -9,26 +9,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "06.04.2026 15:24",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "YAĞCILI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 14:45",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ŞEHİTLER"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 11:26",
       "end": "Süre Verilememekte"
     },
     {
