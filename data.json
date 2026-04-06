@@ -1,17 +1,26 @@
 {
-  "count": 9,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KURTULUŞ",
-        "YILMAZ",
+        "MUTLU",
+        "TOPÇUASIM"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 13:53",
+      "end": "06.04.2026 15:53"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
         "ŞEHİTLER"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 11:40",
-      "end": "Süre Verilememekte"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 13:53",
+      "end": "06.04.2026 14:53"
     },
     {
       "city": "Manisa",
@@ -22,53 +31,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "06.04.2026 11:26",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "AKSOY",
-        "BARIŞ",
-        "NAMIK KEMAL",
-        "SAĞLIK",
-        "SEYRANTEPE",
-        "YEŞİLYURT",
-        "ÖZYURT",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 11:12",
-      "end": "06.04.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "AKPINAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 11:09",
-      "end": "06.04.2026 13:09"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KARAAĞAÇLI"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 10:27",
-      "end": "06.04.2026 12:27"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "75. YIL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "06.04.2026 10:17",
-      "end": "06.04.2026 11:19"
     },
     {
       "city": "Manisa",
