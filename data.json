@@ -1,4 +1,107 @@
 {
-  "count": 0,
-  "data": []
+  "count": 10,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "KARAAĞAÇLI"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 10:27",
+      "end": "06.04.2026 12:27"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "75. YIL"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 10:17",
+      "end": "06.04.2026 12:17"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MERKEZ EFENDİ"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 10:06",
+      "end": "06.04.2026 11:06"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "CABERBURHAN"
+      ],
+      "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 10:00",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MAREŞAL FEVZİ ÇAKMAK"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 09:46",
+      "end": "06.04.2026 11:46"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ERGENEKON"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 09:43",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "İNÖNÜ"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 09:31",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HACI İSHAK",
+        "HÜRRİYET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 09:17",
+      "end": "06.04.2026 11:17"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 08:53",
+      "end": "06.04.2026 10:11"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "HAFSA SULTAN",
+        "YENİMAHALLE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.04.2026 08:21",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
