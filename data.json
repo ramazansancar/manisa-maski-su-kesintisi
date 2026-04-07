@@ -1,16 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "ATATÜRK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.04.2026 15:19",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "SARIGÖL",
