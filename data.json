@@ -1,6 +1,36 @@
 {
-  "count": 6,
+  "count": 5,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KAYAPINAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "08.04.2026 15:54",
+      "end": "08.04.2026 16:54"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "GÜZELYURT"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "08.04.2026 14:37",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "08.04.2026 14:36",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -13,41 +43,6 @@
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "DEVELİ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.04.2026 12:59",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "1.ANAFARTALAR",
-        "2.ANAFARTALAR",
-        "AHMET BEDEVİ",
-        "ALAYBEY",
-        "ÇARŞI",
-        "ŞEHİTLER"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.04.2026 12:17",
-      "end": "08.04.2026 13:53"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.04.2026 12:13",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "KOZLUCA"
@@ -55,16 +50,6 @@
       "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
       "start": "08.04.2026 09:07",
       "end": "08.04.2026 19:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARIGÖL",
-      "neighborhoods": [
-        "ŞEYHDAVUTLAR"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.04.2026 14:27",
-      "end": "08.04.2026 14:27"
     }
   ]
 }
