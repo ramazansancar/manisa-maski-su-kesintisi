@@ -1,16 +1,6 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KAYAPINAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.04.2026 15:54",
-      "end": "08.04.2026 16:54"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
