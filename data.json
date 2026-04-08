@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -9,16 +9,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "08.04.2026 18:35",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "TURGUTALP"
-      ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "08.04.2026 14:36",
       "end": "Süre Verilememekte"
     }
   ]
