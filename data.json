@@ -3,23 +3,24 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "GÜZELYURT"
+        "HACI İSHAK",
+        "HÜRRİYET"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "13.04.2026 09:15",
-      "end": "Süre Verilememekte"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "13.04.2026 11:39",
+      "end": "13.04.2026 13:39"
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "MURADİYE"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.04.2026 09:10",
-      "end": "13.04.2026 11:10"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "13.04.2026 10:43",
+      "end": "Süre Verilememekte"
     }
   ]
 }
