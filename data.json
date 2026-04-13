@@ -3,14 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "SOMA",
       "neighborhoods": [
-        "HACI İSHAK",
-        "HÜRRİYET"
+        "TURGUTALP"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.04.2026 11:39",
-      "end": "13.04.2026 13:39"
+      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "13.04.2026 13:01",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
