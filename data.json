@@ -3,22 +3,26 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "PAŞA",
+        "ŞEYHİSA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "13.04.2026 16:46",
+      "end": "13.04.2026 17:46"
+    },
+    {
+      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
         "TURGUTALP"
       ],
       "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "13.04.2026 13:01",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "13.04.2026 10:43",
       "end": "Süre Verilememekte"
     }
   ]
