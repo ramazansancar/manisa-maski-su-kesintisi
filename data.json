@@ -1,6 +1,27 @@
 {
-  "count": 5,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "SARUHAN"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "14.04.2026 16:28",
+      "end": "14.04.2026 18:28"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "AHMET BEDEVİ",
+        "KAZIM KARABEKİR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "14.04.2026 16:12",
+      "end": "14.04.2026 18:12"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -10,36 +31,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "14.04.2026 14:29",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AHMETLİ",
-      "neighborhoods": [
-        "ATAKÖY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.04.2026 14:20",
-      "end": "14.04.2026 15:20"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KARAAĞAÇLI"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "14.04.2026 13:42",
-      "end": "14.04.2026 15:42"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "HAFSA SULTAN"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "14.04.2026 13:04",
-      "end": "14.04.2026 15:04"
     },
     {
       "city": "Manisa",
