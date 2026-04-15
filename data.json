@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "TURGUTALP"
-      ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "15.04.2026 21:04",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
