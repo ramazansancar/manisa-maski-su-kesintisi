@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
@@ -23,39 +23,13 @@
     },
     {
       "city": "Manisa",
-      "district": "DEMİRCİ",
-      "neighborhoods": [
-        "FATİH",
-        "HACIHAMZA",
-        "İÇHİSAR",
-        "KASIMFAKI",
-        "SECAATTİN",
-        "YENİCE",
-        "ŞEHREKÜSTÜ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 10:49",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
         "ŞEYH SİNAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "16.04.2026 10:11",
-      "end": "16.04.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "İNÖNÜ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 09:54",
-      "end": "16.04.2026 10:28"
+      "end": "16.04.2026 12:30"
     },
     {
       "city": "Manisa",
