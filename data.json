@@ -1,61 +1,19 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "SPİL"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 14:42",
-      "end": "16.04.2026 16:42"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "KUŞLUBAHÇE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 14:41",
-      "end": "16.04.2026 16:41"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 14:14",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
-        "AVDAN"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 13:21",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
+        "CUMA",
         "CUMHURİYET",
-        "FATİH",
-        "YENİMAHALLE"
+        "HÜRRİYET",
+        "KURTULUŞ",
+        "SAMSACI"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.04.2026 08:11",
-      "end": "Süre Verilememekte"
+      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 22:00",
+      "end": "18.04.2026 10:00"
     }
   ]
 }
