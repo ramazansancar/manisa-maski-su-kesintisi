@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
@@ -17,13 +17,43 @@
     },
     {
       "city": "Manisa",
-      "district": "KULA",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "4 EYLÜL"
+        "ŞEYH SİNAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.04.2026 09:00",
-      "end": "17.04.2026 11:00"
+      "start": "17.04.2026 11:24",
+      "end": "17.04.2026 13:25"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 11:09",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "İNÖNÜ"
+      ],
+      "description": "TELEKOMÜNİKASYON KAZISI Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 10:47",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "TEVFİKİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 09:54",
+      "end": "17.04.2026 11:54"
     }
   ]
 }
