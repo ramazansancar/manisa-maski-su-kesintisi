@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 8,
   "data": [
     {
       "city": "Manisa",
@@ -17,23 +17,65 @@
     },
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "SOMA",
       "neighborhoods": [
-        "BÜYÜKBELEN"
+        "ONÜÇ EYLÜL"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.04.2026 11:43",
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 14:44",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ŞEYH SİNAN"
+        "KARAALİ"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 14:39",
+      "end": "17.04.2026 16:39"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 14:38",
+      "end": "17.04.2026 16:38"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "REŞAT BEY",
+        "SEYİT AHMET"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "17.04.2026 11:24",
-      "end": "17.04.2026 12:38"
+      "start": "17.04.2026 14:36",
+      "end": "17.04.2026 16:36"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 14:36",
+      "end": "17.04.2026 16:36"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "17.04.2026 13:21",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
@@ -43,16 +85,6 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "17.04.2026 11:09",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "İNÖNÜ"
-      ],
-      "description": "TELEKOMÜNİKASYON KAZISI Sebebiyle Su Kesintisi",
-      "start": "17.04.2026 10:47",
       "end": "Süre Verilememekte"
     }
   ]
