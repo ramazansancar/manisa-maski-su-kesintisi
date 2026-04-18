@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "SUBAŞI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.04.2026 10:42",
+      "end": "18.04.2026 12:42"
+    },
+    {
+      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
         "ONÜÇ EYLÜL"
@@ -10,17 +20,6 @@
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "18.04.2026 10:13",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.04.2026 09:39",
-      "end": "18.04.2026 11:39"
     },
     {
       "city": "Manisa",
