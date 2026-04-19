@@ -1,6 +1,18 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AKMESCİT",
+        "MERKEZ EFENDİ",
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "19.04.2026 19:06",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
