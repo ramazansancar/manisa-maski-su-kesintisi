@@ -1,27 +1,15 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "TEMREK"
+        "PİYADELER"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.04.2026 18:00",
-      "end": "20.04.2026 20:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "SUBAŞI",
-        "YENİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "20.04.2026 16:44",
-      "end": "Süre Verilememekte"
+      "start": "20.04.2026 20:01",
+      "end": "20.04.2026 22:01"
     },
     {
       "city": "Manisa",
