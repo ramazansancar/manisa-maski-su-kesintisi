@@ -3,6 +3,16 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "TEMREK"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.04.2026 18:00",
+      "end": "20.04.2026 20:00"
+    },
+    {
+      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "CUMHURİYET",
@@ -11,16 +21,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "20.04.2026 16:44",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "TURGUTALP"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "20.04.2026 16:06",
       "end": "Süre Verilememekte"
     },
     {
