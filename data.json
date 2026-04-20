@@ -1,4 +1,45 @@
 {
-  "count": 0,
-  "data": []
+  "count": 4,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "TAYTAN"
+      ],
+      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "20.04.2026 09:04",
+      "end": "20.04.2026 12:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "HÜRRİYET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.04.2026 08:59",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.04.2026 08:32",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "YENİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "20.04.2026 08:26",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
