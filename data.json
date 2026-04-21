@@ -3,13 +3,17 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "AKHİSAR",
       "neighborhoods": [
-        "YENİMAHALLE"
+        "CUMHURİYET",
+        "HACI İSHAK",
+        "HAS HOCA",
+        "PAŞA",
+        "ŞEYHİSA"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "21.04.2026 11:26",
-      "end": "21.04.2026 12:26"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "21.04.2026 12:33",
+      "end": "21.04.2026 14:33"
     },
     {
       "city": "Manisa",
