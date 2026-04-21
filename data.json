@@ -1,17 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "ATATÜRK",
-        "ONÜÇ EYLÜL"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "21.04.2026 16:22",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "DEMİRCİ",
