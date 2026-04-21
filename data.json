@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -11,17 +11,6 @@
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "21.04.2026 16:22",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "REŞAT BEY",
-        "SEYİT AHMET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "21.04.2026 16:18",
-      "end": "21.04.2026 18:18"
     },
     {
       "city": "Manisa",
