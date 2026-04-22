@@ -1,6 +1,16 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "YAYLA"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "22.04.2026 12:48",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "KIRKAĞAÇ",
@@ -16,16 +26,6 @@
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "GÜZELYURT"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 11:14",
-      "end": "22.04.2026 13:14"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
         "ATATÜRK"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
@@ -34,35 +34,13 @@
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "TURGUT ÖZAL"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 09:54",
-      "end": "22.04.2026 11:11"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "RAHMANLAR"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 09:46",
-      "end": "22.04.2026 12:49"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BARIŞ",
-        "BEŞEYLÜL",
-        "YENİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 09:37",
-      "end": "22.04.2026 12:00"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "22.04.2026 09:35",
+      "end": "Süre Verilememekte"
     }
   ]
 }
