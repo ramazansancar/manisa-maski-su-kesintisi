@@ -1,48 +1,42 @@
 {
-  "count": 7,
+  "count": 6,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
+        "BARIŞ",
+        "NAMIK KEMAL",
+        "SAĞLIK",
+        "SEYRANTEPE",
+        "YEŞİLYURT",
+        "ÖZYURT",
+        "ŞEHİTLER"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 14:49",
-      "end": "22.04.2026 16:49"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "TEVFİKİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 14:33",
+      "start": "22.04.2026 17:21",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "GÜZELYURT"
+        "ERGENEKON"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 14:25",
-      "end": "22.04.2026 15:25"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "22.04.2026 16:12",
+      "end": "22.04.2026 18:15"
     },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AYNİ ALİ",
-        "KUYUALAN"
+        "KUYUALAN",
+        "TOPÇUASIM"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "22.04.2026 14:11",
-      "end": "22.04.2026 16:11"
+      "start": "22.04.2026 15:49",
+      "end": "22.04.2026 17:20"
     },
     {
       "city": "Manisa",
