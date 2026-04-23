@@ -1,4 +1,16 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KEÇİLİ KÖY",
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "24.04.2026 00:12",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
