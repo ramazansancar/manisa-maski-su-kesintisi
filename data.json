@@ -1,4 +1,15 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "ONÜÇ EYLÜL"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "24.04.2026 20:59",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
