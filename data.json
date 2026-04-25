@@ -1,15 +1,27 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "SOĞUKYURT"
+        "HACIRAHMANLI"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.04.2026 10:52",
-      "end": "25.04.2026 17:00"
+      "start": "25.04.2026 16:33",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "SUBAŞI",
+        "YENİ"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "25.04.2026 16:15",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
