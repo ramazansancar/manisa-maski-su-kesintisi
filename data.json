@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HACIRAHMANLI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.04.2026 16:33",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
