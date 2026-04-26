@@ -1,4 +1,27 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KEÇİLİ KÖY",
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "26.04.2026 10:31",
+      "end": "26.04.2026 11:31"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "ATATÜRK",
+        "REŞAT BEY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "26.04.2026 09:47",
+      "end": "26.04.2026 11:47"
+    }
+  ]
 }
