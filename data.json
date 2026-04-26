@@ -3,25 +3,28 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "KEÇİLİ KÖY",
-        "UNCUBOZKÖY"
+        "ALAYBEY",
+        "ŞEHİTLER"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "26.04.2026 10:31",
-      "end": "26.04.2026 11:31"
+      "start": "26.04.2026 11:59",
+      "end": "26.04.2026 13:59"
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "SARUHANLI",
       "neighborhoods": [
         "ATATÜRK",
-        "REŞAT BEY"
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.04.2026 09:47",
-      "end": "26.04.2026 11:47"
+      "start": "26.04.2026 11:41",
+      "end": "Süre Verilememekte"
     }
   ]
 }
