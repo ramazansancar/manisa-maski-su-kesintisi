@@ -1,17 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "AYNİ ALİ",
-        "MERKEZ EFENDİ",
-        "TEVFİKİYE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "25.04.2026 10:47",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
