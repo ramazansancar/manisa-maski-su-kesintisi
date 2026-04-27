@@ -1,15 +1,37 @@
 {
-  "count": 1,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "MURADİYE"
+        "AKGEDİK"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "27.04.2026 09:31",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "HAMİDİYE (MERKEZ)"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "27.04.2026 09:31",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "ULU CAMİİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "26.04.2026 18:29",
-      "end": "Süre Verilememekte"
+      "start": "27.04.2026 08:53",
+      "end": "27.04.2026 10:53"
     }
   ]
 }
