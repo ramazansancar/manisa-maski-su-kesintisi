@@ -1,38 +1,26 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AKMESCİT"
+        "50.YIL"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 11:37",
-      "end": "27.04.2026 12:37"
+      "start": "27.04.2026 14:35",
+      "end": "27.04.2026 15:35"
     },
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "HACI İSHAK",
-        "HÜRRİYET"
+        "TAYTAN",
+        "ÇAVLU"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 11:23",
-      "end": "27.04.2026 13:23"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "SAKARYA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 11:07",
-      "end": "27.04.2026 13:10"
+      "description": "İÇME SUYU ANA KOLLEKTÖR HATTINDA OLUŞAN ARIZA Sebebiyle Su Kesintisi",
+      "start": "27.04.2026 12:59",
+      "end": "27.04.2026 15:00"
     },
     {
       "city": "Manisa",
@@ -54,20 +42,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "27.04.2026 09:31",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "REŞAT BEY",
-        "SEYİT AHMET",
-        "ULU CAMİİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 08:53",
-      "end": "27.04.2026 12:53"
     }
   ]
 }
