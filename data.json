@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -13,47 +13,12 @@
     },
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "SAKARYA",
-        "SOĞUKSU",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 16:45",
-      "end": "27.04.2026 19:45"
-    },
-    {
-      "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
         "TURGUTALP"
       ],
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "27.04.2026 15:57",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 15:04",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "FATİH",
-        "HAFSA SULTAN"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "27.04.2026 10:23",
       "end": "Süre Verilememekte"
     }
   ]
