@@ -3,6 +3,30 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "AHMETLİ",
+      "neighborhoods": [
+        "BARBAROS"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.04.2026 14:52",
+      "end": "28.04.2026 16:52"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "28.04.2026 14:45",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "YENİ"
@@ -23,33 +47,12 @@
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MERKEZ EFENDİ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "28.04.2026 12:00",
-      "end": "28.04.2026 14:00"
-    },
-    {
-      "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
         "CUMHURİYET"
       ],
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "28.04.2026 10:57",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "FATİH",
-        "HAFSA SULTAN"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "28.04.2026 10:42",
       "end": "Süre Verilememekte"
     }
   ]
