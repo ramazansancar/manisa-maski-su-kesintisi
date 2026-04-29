@@ -1,4 +1,64 @@
 {
-  "count": 0,
-  "data": []
+  "count": 5,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "29.04.2026 11:00",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "TEVFİKİYE",
+        "TOPÇUASIM"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "29.04.2026 09:56",
+      "end": "29.04.2026 11:56"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "YEDİ EYLÜL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "29.04.2026 09:52",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BEŞEYLÜL",
+        "SARISU",
+        "SOĞUKSU"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "29.04.2026 09:33",
+      "end": "29.04.2026 11:33"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "KURTULUŞ",
+        "YILMAZ",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "29.04.2026 08:46",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
