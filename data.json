@@ -1,46 +1,4 @@
 {
-  "count": 4,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "ADNAN MENDERES",
-        "HÜSEYNİ BABA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.04.2026 21:27",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "ATATÜRK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.04.2026 18:43",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "KORUBAŞI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.04.2026 17:57",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "KARAYAHŞİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.04.2026 17:54",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
