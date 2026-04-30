@@ -1,15 +1,47 @@
 {
-  "count": 1,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "SELENDİ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "HALILAR"
+        "ÜÇPINAR"
       ],
-      "description": "DEPO BAKIMI VE ONARIMI Sebebiyle Su Kesintisi",
-      "start": "30.04.2026 09:23",
-      "end": "30.04.2026 11:25"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 12:02",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "HÜRRİYET"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 11:19",
+      "end": "30.04.2026 13:19"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MURADİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 10:42",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ALAYBEY",
+        "DİLŞİKAR",
+        "NİŞANCIPAŞA"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 09:54",
+      "end": "30.04.2026 11:59"
     }
   ]
 }
