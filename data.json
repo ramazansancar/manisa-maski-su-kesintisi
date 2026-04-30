@@ -1,47 +1,56 @@
 {
-  "count": 4,
+  "count": 5,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "ÜÇPINAR"
+        "KUYUALAN"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.04.2026 12:02",
+      "start": "30.04.2026 14:38",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HÜRRİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "30.04.2026 11:19",
-      "end": "30.04.2026 13:19"
     },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "MURADİYE"
+        "GÜZELYURT"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.04.2026 10:42",
+      "start": "30.04.2026 14:37",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "SOMA",
       "neighborhoods": [
-        "ALAYBEY",
-        "DİLŞİKAR",
-        "NİŞANCIPAŞA"
+        "ZAFER"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.04.2026 09:54",
-      "end": "30.04.2026 11:59"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 13:56",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "CUMHURİYET",
+        "YENİ"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 13:31",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.04.2026 13:14",
+      "end": "Süre Verilememekte"
     }
   ]
 }
