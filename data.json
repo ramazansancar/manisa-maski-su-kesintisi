@@ -1,4 +1,16 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "GÜNEŞ",
+        "KIRVELİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "01.05.2026 15:35",
+      "end": "01.05.2026 17:30"
+    }
+  ]
 }
