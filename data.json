@@ -1,4 +1,17 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "KURTULUŞ",
+        "YILMAZ",
+        "ŞEHİTLER"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "01.05.2026 10:42",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
