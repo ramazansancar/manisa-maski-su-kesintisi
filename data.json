@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "01.05.2026 20:35",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
