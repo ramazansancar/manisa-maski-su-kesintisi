@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -8,18 +8,8 @@
         "GÜZELYURT"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "03.05.2026 12:11",
-      "end": "03.05.2026 14:11"
-    },
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "HÜRRİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "03.05.2026 11:24",
-      "end": "03.05.2026 13:01"
+      "start": "03.05.2026 14:37",
+      "end": "Süre Verilememekte"
     }
   ]
 }
