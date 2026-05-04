@@ -1,50 +1,26 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "SALİHLİ",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "GAFFAR OKKAN",
-        "KELİ",
-        "YILMAZ"
+        "KEPENEKLİ",
+        "TAŞDİBİ"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.05.2026 12:16",
-      "end": "04.05.2026 13:30"
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "04.05.2026 13:56",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "KIRKAĞAÇ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "BODUROĞLU",
-        "CİNOSMAN",
-        "HACIHİMMET",
-        "HIDIRAĞA",
-        "KADRİYE",
-        "KARAALİ",
-        "KAYADİBİ",
-        "KOCAMEHMETAĞA",
-        "MEMİŞ",
-        "MUSALAR",
-        "SARIAĞA",
-        "TEVFİKİYE",
-        "YENİ",
-        "ŞAİR EŞREF"
+        "AKGEDİK"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.05.2026 11:30",
-      "end": "04.05.2026 14:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "YENİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "04.05.2026 11:04",
-      "end": "04.05.2026 13:04"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "04.05.2026 13:52",
+      "end": "04.05.2026 15:52"
     }
   ]
 }
