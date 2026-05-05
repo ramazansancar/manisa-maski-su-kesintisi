@@ -1,27 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "YENİ"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 17:54",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "MEHMET AKİF ERSOY"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 17:22",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -30,29 +9,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "05.05.2026 16:54",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "GÖRDES",
-      "neighborhoods": [
-        "CUMA",
-        "DİVAN",
-        "NAKIPAĞA",
-        "UZUNÇAM"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 16:04",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "YILMAZ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 15:04",
       "end": "Süre Verilememekte"
     }
   ]
