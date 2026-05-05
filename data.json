@@ -1,42 +1,25 @@
 {
-  "count": 6,
+  "count": 5,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ÖRENCİK"
-      ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 12:04",
-      "end": "05.05.2026 16:10"
-    },
     {
       "city": "Manisa",
       "district": "TURGUTLU",
       "neighborhoods": [
-        "KUŞLAR"
+        "CUMHURİYET",
+        "YENİ"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 11:39",
-      "end": "05.05.2026 14:30"
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "05.05.2026 17:54",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "KÖPRÜBAŞI",
       "neighborhoods": [
-        "ADNAN MENDERES",
-        "AHMET BEDEVİ",
-        "AKPINAR",
-        "ALAYBEY",
-        "KAZIM KARABEKİR",
-        "NURLUPINAR",
-        "SAKARYA",
-        "TURGUT ÖZAL",
-        "ŞEHİTLER"
+        "MEHMET AKİF ERSOY"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 10:44",
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.05.2026 17:22",
       "end": "Süre Verilememekte"
     },
     {
@@ -45,28 +28,31 @@
       "neighborhoods": [
         "AKGEDİK"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 09:51",
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.05.2026 16:54",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "SOMA",
+      "district": "GÖRDES",
       "neighborhoods": [
-        "ONÜÇ EYLÜL"
+        "CUMA",
+        "DİVAN",
+        "NAKIPAĞA",
+        "UZUNÇAM"
       ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 09:47",
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "05.05.2026 16:04",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "MURADİYE"
+        "YILMAZ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "05.05.2026 08:52",
+      "start": "05.05.2026 15:04",
       "end": "Süre Verilememekte"
     }
   ]
