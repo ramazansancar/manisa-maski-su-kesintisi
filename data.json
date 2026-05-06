@@ -1,26 +1,6 @@
 {
-  "count": 5,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "KEMALİYE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.05.2026 12:14",
-      "end": "06.05.2026 14:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "KARAMANLI"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "06.05.2026 11:56",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "TURGUTLU",
