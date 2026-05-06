@@ -1,14 +1,14 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "CUMHURİYET"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.05.2026 10:16",
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "06.05.2026 15:36",
       "end": "Süre Verilememekte"
     },
     {
@@ -20,16 +20,6 @@
       "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "06.05.2026 10:14",
       "end": "06.05.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "İSTASYONALTI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "06.05.2026 05:30",
-      "end": "Süre Verilememekte"
     }
   ]
 }
