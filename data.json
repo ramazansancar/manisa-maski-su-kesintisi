@@ -1,6 +1,46 @@
 {
-  "count": 2,
+  "count": 6,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MAREŞAL FEVZİ ÇAKMAK"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "07.05.2026 16:15",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ERGENEKON"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "07.05.2026 16:00",
+      "end": "07.05.2026 18:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "SUBAŞI"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "07.05.2026 15:45",
+      "end": "07.05.2026 17:45"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "HACIBEY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "07.05.2026 15:36",
+      "end": "07.05.2026 17:36"
+    },
     {
       "city": "Manisa",
       "district": "SOMA",
