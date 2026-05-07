@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
@@ -10,46 +10,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "07.05.2026 12:29",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.05.2026 12:26",
-      "end": "07.05.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "HACIHALİLLER"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "07.05.2026 12:06",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARIGÖL",
-      "neighborhoods": [
-        "AYAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.05.2026 11:20",
-      "end": "07.05.2026 13:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "ŞEYH SİNAN"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "07.05.2026 09:44",
-      "end": "07.05.2026 12:25"
     },
     {
       "city": "Manisa",
