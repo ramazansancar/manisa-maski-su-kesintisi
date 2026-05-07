@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MAREŞAL FEVZİ ÇAKMAK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "07.05.2026 16:15",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "SELENDİ",
