@@ -1,20 +1,6 @@
 {
-  "count": 5,
+  "count": 3,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY",
-        "DİLŞİKAR",
-        "EGE",
-        "KOCATEPE",
-        "NİŞANCIPAŞA"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 14:57",
-      "end": "08.05.2026 16:57"
-    },
     {
       "city": "Manisa",
       "district": "SOMA",
@@ -24,16 +10,6 @@
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "08.05.2026 14:36",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ALAYBEY"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 14:35",
-      "end": "08.05.2026 15:35"
     },
     {
       "city": "Manisa",
