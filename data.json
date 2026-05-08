@@ -5,10 +5,12 @@
       "city": "Manisa",
       "district": "SOMA",
       "neighborhoods": [
+        "CUMHURİYET",
+        "HÜRRİYET",
         "KURTULUŞ"
       ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 14:36",
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 19:37",
       "end": "Süre Verilememekte"
     }
   ]
