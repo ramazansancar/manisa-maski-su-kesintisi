@@ -1,46 +1,35 @@
 {
-  "count": 6,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "ALAŞEHİR",
+      "district": "SOMA",
       "neighborhoods": [
-        "FATİH",
-        "HACIBEY"
+        "HAMİDİYE"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 11:00",
-      "end": "08.05.2026 13:00"
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 12:57",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "TEVFİKİYE"
+        "MURADİYE"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 10:38",
-      "end": "08.05.2026 11:38"
+      "start": "08.05.2026 12:01",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
       "district": "SALİHLİ",
       "neighborhoods": [
-        "ÖZYURT"
+        "KURTULUŞ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 10:12",
-      "end": "08.05.2026 12:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "HALİTPAŞA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 10:05",
-      "end": "Süre Verilememekte"
+      "start": "08.05.2026 11:54",
+      "end": "08.05.2026 13:30"
     },
     {
       "city": "Manisa",
@@ -51,24 +40,6 @@
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "08.05.2026 09:54",
       "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "ADAKALE",
-        "AKINCILAR",
-        "DERE",
-        "GÖKTAŞLI",
-        "İBRAHİMÇELEBİ",
-        "MİMARSİNAN",
-        "NİŞANCIPAŞA",
-        "SARUHAN",
-        "TUNCA"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 09:53",
-      "end": "08.05.2026 11:53"
     }
   ]
 }
