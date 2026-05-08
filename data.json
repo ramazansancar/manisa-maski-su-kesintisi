@@ -1,4 +1,74 @@
 {
-  "count": 0,
-  "data": []
+  "count": 6,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "FATİH",
+        "HACIBEY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 11:00",
+      "end": "08.05.2026 13:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "TEVFİKİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 10:38",
+      "end": "08.05.2026 11:38"
+    },
+    {
+      "city": "Manisa",
+      "district": "SALİHLİ",
+      "neighborhoods": [
+        "ÖZYURT"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 10:12",
+      "end": "08.05.2026 12:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "HALİTPAŞA"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 10:05",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KÖPRÜBAŞI",
+      "neighborhoods": [
+        "ALANYOLU"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 09:54",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "ADAKALE",
+        "AKINCILAR",
+        "DERE",
+        "GÖKTAŞLI",
+        "İBRAHİMÇELEBİ",
+        "MİMARSİNAN",
+        "NİŞANCIPAŞA",
+        "SARUHAN",
+        "TUNCA"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "08.05.2026 09:53",
+      "end": "08.05.2026 11:53"
+    }
+  ]
 }
