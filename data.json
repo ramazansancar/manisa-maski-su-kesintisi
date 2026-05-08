@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -9,26 +9,6 @@
       ],
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "08.05.2026 14:36",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "HAMİDİYE"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 12:57",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "KÖPRÜBAŞI",
-      "neighborhoods": [
-        "ALANYOLU"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "08.05.2026 09:54",
       "end": "Süre Verilememekte"
     }
   ]
