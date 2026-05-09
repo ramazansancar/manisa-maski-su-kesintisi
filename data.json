@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -13,17 +13,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.05.2026 16:03",
-      "end": "09.05.2026 19:03"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.05.2026 12:53",
-      "end": "09.05.2026 17:00"
+      "end": "09.05.2026 17:20"
     }
   ]
 }
