@@ -1,4 +1,17 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "FATİH",
+        "HACIBEY",
+        "YENİCE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.05.2026 09:05",
+      "end": "09.05.2026 12:30"
+    }
+  ]
 }
