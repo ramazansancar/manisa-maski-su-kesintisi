@@ -1,40 +1,31 @@
 {
-  "count": 3,
+  "count": 2,
   "data": [
     {
       "city": "Manisa",
-      "district": "AKHİSAR",
+      "district": "TURGUTLU",
       "neighborhoods": [
-        "EFENDİ",
-        "KETHÜDA",
-        "ULU CAMİİ"
+        "CUMHURİYET"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.05.2026 10:13",
-      "end": "09.05.2026 10:32"
+      "start": "09.05.2026 12:53",
+      "end": "09.05.2026 15:00"
     },
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "SALİHLİ",
       "neighborhoods": [
-        "AKINCILAR",
-        "MİMARSİNAN"
+        "AKSOY",
+        "NAMIK KEMAL",
+        "SAĞLIK",
+        "SEYRANTEPE",
+        "YEŞİLYURT",
+        "ÖZYURT",
+        "ŞEHİTLER"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "09.05.2026 09:45",
-      "end": "09.05.2026 11:45"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "FATİH",
-        "HACIBEY",
-        "YENİCE"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "09.05.2026 09:05",
-      "end": "09.05.2026 12:30"
+      "description": "ALTYAPI ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "09.05.2026 12:50",
+      "end": "09.05.2026 14:30"
     }
   ]
 }
