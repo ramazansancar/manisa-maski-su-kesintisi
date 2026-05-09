@@ -1,6 +1,20 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "FATİH",
+        "HACIBEY",
+        "İSTASYON",
+        "SAKARYA",
+        "YENİCE"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "09.05.2026 16:03",
+      "end": "09.05.2026 19:03"
+    },
     {
       "city": "Manisa",
       "district": "TURGUTLU",
@@ -9,7 +23,7 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "09.05.2026 12:53",
-      "end": "09.05.2026 15:00"
+      "end": "09.05.2026 17:00"
     }
   ]
 }
