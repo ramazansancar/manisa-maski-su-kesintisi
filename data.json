@@ -1,17 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "50.YIL",
-        "ATATÜRK",
-        "MAREŞAL FEVZİ ÇAKMAK"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "10.05.2026 11:30",
-      "end": "10.05.2026 12:31"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
