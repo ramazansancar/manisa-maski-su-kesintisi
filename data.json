@@ -1,4 +1,17 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "KURTULUŞ",
+        "YILMAZ",
+        "ŞEHİTLER"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "10.05.2026 17:07",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
