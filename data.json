@@ -1,35 +1,36 @@
 {
-  "count": 7,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "CUMHURİYET"
+        "MURADİYE"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 11:11",
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "11.05.2026 14:23",
+      "end": "11.05.2026 16:23"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "SELİMŞAHLAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "11.05.2026 14:20",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "KIRKAĞAÇ",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "TEVFİKİYE",
+        "ŞAİR EŞREF"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 10:27",
-      "end": "11.05.2026 12:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ERGENEKON"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 10:26",
-      "end": "11.05.2026 12:30"
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "11.05.2026 14:00",
+      "end": "11.05.2026 17:00"
     },
     {
       "city": "Manisa",
@@ -40,40 +41,6 @@
       "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
       "start": "11.05.2026 10:18",
       "end": "11.05.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "EGE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 10:02",
-      "end": "11.05.2026 12:02"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "IRLAMAZ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 09:18",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "11.05.2026 09:17",
-      "end": "Süre Verilememekte"
     }
   ]
 }
