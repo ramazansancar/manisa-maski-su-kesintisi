@@ -5,21 +5,25 @@
       "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
-        "HALİTPAŞA"
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "13.05.2026 15:34",
+      "start": "13.05.2026 19:03",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
       "district": "ALAŞEHİR",
       "neighborhoods": [
-        "GÖBEKLİ"
+        "ŞEYH SİNAN"
       ],
-      "description": "VANA VE HAT YENILEME ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "13.05.2026 11:36",
-      "end": "13.05.2026 17:36"
+      "description": "HAT BAKIM ONARIMI Sebebiyle Su Kesintisi",
+      "start": "13.05.2026 17:56",
+      "end": "13.05.2026 19:56"
     }
   ]
 }
