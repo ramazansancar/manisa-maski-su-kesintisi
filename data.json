@@ -1,15 +1,29 @@
 {
-  "count": 2,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "GÜZELYURT"
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "14.05.2026 15:00",
-      "end": "14.05.2026 16:00"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "14.05.2026 17:35",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMHURİYET"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "14.05.2026 16:48",
+      "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
