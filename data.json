@@ -1,26 +1,15 @@
 {
-  "count": 5,
+  "count": 2,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "AKHİSAR",
-      "neighborhoods": [
-        "ATATÜRK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.05.2026 10:42",
-      "end": "14.05.2026 12:42"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "LALELİ",
-        "MESİR"
+        "GÜZELYURT"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "14.05.2026 10:26",
-      "end": "14.05.2026 12:26"
+      "start": "14.05.2026 13:21",
+      "end": "14.05.2026 14:21"
     },
     {
       "city": "Manisa",
@@ -31,28 +20,6 @@
       "description": "POMPA ARIZASI Sebebiyle Su Kesintisi",
       "start": "14.05.2026 10:25",
       "end": "14.05.2026 22:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "KIRKAĞAÇ",
-      "neighborhoods": [
-        "KAYADİBİ",
-        "MEMİŞ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.05.2026 10:00",
-      "end": "14.05.2026 11:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "YENİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "14.05.2026 07:15",
-      "end": "Süre Verilememekte"
     }
   ]
 }
