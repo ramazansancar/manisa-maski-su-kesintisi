@@ -1,36 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "YAYLA"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "15.05.2026 15:30",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "KABAZLI"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "15.05.2026 15:14",
-      "end": "15.05.2026 17:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "KİLLİK"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "15.05.2026 15:04",
-      "end": "15.05.2026 18:04"
-    },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
@@ -39,16 +9,6 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "15.05.2026 14:47",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SELENDİ",
-      "neighborhoods": [
-        "ÇİNAN"
-      ],
-      "description": "YENİ DEPO BAĞLANTISI Sebebiyle Su Kesintisi",
-      "start": "15.05.2026 09:51",
       "end": "Süre Verilememekte"
     }
   ]
