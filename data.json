@@ -1,4 +1,75 @@
 {
-  "count": 0,
-  "data": []
+  "count": 6,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "BODUROĞLU",
+        "CİNOSMAN",
+        "KARAALİ",
+        "KAYADİBİ",
+        "MEMİŞ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 10:00",
+      "end": "15.05.2026 13:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SELENDİ",
+      "neighborhoods": [
+        "ÇİNAN"
+      ],
+      "description": "YENİ DEPO BAĞLANTISI Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 09:51",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "SPİL"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 09:34",
+      "end": "15.05.2026 10:34"
+    },
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "REŞAT BEY",
+        "SEYİT AHMET",
+        "ULU CAMİİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 09:27",
+      "end": "15.05.2026 12:27"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ESEN TEPE",
+        "HACIBEY"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 09:19",
+      "end": "15.05.2026 12:20"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "İSTASYONALTI",
+        "MUSTAFA KEMAL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "15.05.2026 08:00",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
