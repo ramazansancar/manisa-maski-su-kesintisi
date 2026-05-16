@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "ŞEHZADELER",
-      "neighborhoods": [
-        "YARHASANLAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 20:11",
-      "end": "16.05.2026 23:11"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
