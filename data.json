@@ -3,13 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "SARUHANLI",
+      "district": "ŞEHZADELER",
       "neighborhoods": [
-        "HACIRAHMANLI"
+        "YARHASANLAR"
       ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 17:17",
-      "end": "Süre Verilememekte"
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 20:11",
+      "end": "16.05.2026 23:11"
     }
   ]
 }
