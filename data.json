@@ -1,68 +1,38 @@
 {
-  "count": 6,
+  "count": 3,
   "data": [
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AYNİ ALİ"
+        "MALDAN"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 09:59",
-      "end": "16.05.2026 10:59"
+      "start": "16.05.2026 12:14",
+      "end": "16.05.2026 14:14"
     },
     {
       "city": "Manisa",
       "district": "YUNUSEMRE",
       "neighborhoods": [
-        "KUYUALAN",
-        "TEVFİKİYE"
+        "75. YIL"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 09:45",
-      "end": "16.05.2026 10:06"
+      "start": "16.05.2026 11:55",
+      "end": "16.05.2026 12:55"
     },
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "AKÇAPINAR"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 09:31",
-      "end": "16.05.2026 12:30"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KEÇİLİ KÖY",
-        "UNCUBOZKÖY"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 09:24",
-      "end": "16.05.2026 11:24"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KAYAPINAR"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 09:19",
-      "end": "16.05.2026 11:19"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "SARUHANLI",
       "neighborhoods": [
         "ATATÜRK",
-        "MUSTAFA KEMAL",
-        "YEDİ EYLÜL"
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "16.05.2026 08:31",
+      "start": "16.05.2026 10:36",
       "end": "Süre Verilememekte"
     }
   ]
