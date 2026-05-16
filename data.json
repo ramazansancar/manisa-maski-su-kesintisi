@@ -1,4 +1,69 @@
 {
-  "count": 0,
-  "data": []
+  "count": 6,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "AYNİ ALİ"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 09:59",
+      "end": "16.05.2026 10:59"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KUYUALAN",
+        "TEVFİKİYE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 09:45",
+      "end": "16.05.2026 10:06"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "AKÇAPINAR"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 09:31",
+      "end": "16.05.2026 12:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KEÇİLİ KÖY",
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 09:24",
+      "end": "16.05.2026 11:24"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "KAYAPINAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 09:19",
+      "end": "16.05.2026 11:19"
+    },
+    {
+      "city": "Manisa",
+      "district": "TURGUTLU",
+      "neighborhoods": [
+        "ATATÜRK",
+        "MUSTAFA KEMAL",
+        "YEDİ EYLÜL"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "16.05.2026 08:31",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
