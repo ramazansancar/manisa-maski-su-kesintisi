@@ -1,4 +1,25 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "YAĞCILAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.05.2026 10:30",
+      "end": "17.05.2026 13:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "MUTLU"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "17.05.2026 10:22",
+      "end": "17.05.2026 12:22"
+    }
+  ]
 }
