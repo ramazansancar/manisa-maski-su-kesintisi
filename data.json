@@ -1,18 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "BAKLACI",
-        "FATİH",
-        "İSTASYON",
-        "KURTULUŞ"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.05.2026 12:46",
-      "end": "17.05.2026 17:00"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
