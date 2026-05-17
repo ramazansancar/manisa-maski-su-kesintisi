@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
     {
       "city": "Manisa",
@@ -13,16 +13,6 @@
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "17.05.2026 12:46",
       "end": "17.05.2026 17:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "17.05.2026 11:20",
-      "end": "Süre Verilememekte"
     }
   ]
 }
