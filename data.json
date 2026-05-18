@@ -1,53 +1,24 @@
 {
-  "count": 7,
+  "count": 4,
   "data": [
     {
       "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
-        "ATATÜRK",
-        "CENGİZ TOPEL",
-        "CUMHURİYET",
-        "İSTASYON",
-        "SARUHAN"
+        "AZİMLİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 16:28",
+      "start": "18.05.2026 19:28",
       "end": "Süre Verilememekte"
     },
     {
       "city": "Manisa",
-      "district": "KIRKAĞAÇ",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "CİNOSMAN",
-        "HACIHİMMET",
-        "KARAALİ",
-        "KAYADİBİ",
-        "KOCAMEHMETAĞA",
-        "MEMİŞ"
+        "KAYAPINAR"
       ],
       "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 16:00",
-      "end": "18.05.2026 18:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "ALAŞEHİR",
-      "neighborhoods": [
-        "GÖBEKLİ"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 15:43",
-      "end": "18.05.2026 20:00"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "KURTULUŞ"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 15:28",
+      "start": "18.05.2026 18:06",
       "end": "Süre Verilememekte"
     },
     {
@@ -58,16 +29,6 @@
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "18.05.2026 14:43",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "CUMHURİYET"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 14:28",
       "end": "Süre Verilememekte"
     },
     {
