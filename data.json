@@ -1,4 +1,84 @@
 {
-  "count": 0,
-  "data": []
+  "count": 7,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 16:28",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "KIRKAĞAÇ",
+      "neighborhoods": [
+        "CİNOSMAN",
+        "HACIHİMMET",
+        "KARAALİ",
+        "KAYADİBİ",
+        "KOCAMEHMETAĞA",
+        "MEMİŞ"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 16:00",
+      "end": "18.05.2026 18:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "GÖBEKLİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 15:43",
+      "end": "18.05.2026 20:00"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "KURTULUŞ"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 15:28",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "GÖRDES",
+      "neighborhoods": [
+        "KÜREKÇİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 14:43",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "CUMHURİYET"
+      ],
+      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 14:28",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "UZUNBURUN"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "18.05.2026 10:11",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
