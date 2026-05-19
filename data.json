@@ -1,19 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "HAMİDİYE",
-        "HÜRRİYET",
-        "KARAMANLI",
-        "KURTULUŞ",
-        "NAMAZGAH"
-      ],
-      "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
-      "start": "19.05.2026 12:10",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
