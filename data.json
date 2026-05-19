@@ -1,17 +1,6 @@
 {
-  "count": 3,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SALİHLİ",
-      "neighborhoods": [
-        "CUMHURİYET",
-        "YÖRÜK"
-      ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
-      "start": "19.05.2026 14:07",
-      "end": "19.05.2026 17:00"
-    },
     {
       "city": "Manisa",
       "district": "SOMA",
@@ -24,16 +13,6 @@
       ],
       "description": "DOĞALGAZ KAZISI Sebebiyle Su Kesintisi",
       "start": "19.05.2026 12:10",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "KAYAPINAR"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "18.05.2026 18:06",
       "end": "Süre Verilememekte"
     }
   ]
