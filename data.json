@@ -1,4 +1,45 @@
 {
-  "count": 0,
-  "data": []
+  "count": 4,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "21.05.2026 11:25",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "ÖRENCİK"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "21.05.2026 11:20",
+      "end": "21.05.2026 13:30"
+    },
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "YENİMAHALLE"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "21.05.2026 10:01",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "SELİMŞAHLAR"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "21.05.2026 09:43",
+      "end": "21.05.2026 12:43"
+    }
+  ]
 }
