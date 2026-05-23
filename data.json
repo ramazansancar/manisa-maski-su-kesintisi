@@ -3,22 +3,26 @@
   "data": [
     {
       "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BARIŞ",
+        "BEŞEYLÜL",
+        "ILICA",
+        "MENDERES",
+        "YENİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "23.05.2026 11:45",
+      "end": "23.05.2026 13:45"
+    },
+    {
+      "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "BÜYÜKBELEN"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
       "start": "23.05.2026 09:58",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "TURGUTLU",
-      "neighborhoods": [
-        "ACARLAR"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "23.05.2026 05:57",
       "end": "Süre Verilememekte"
     }
   ]
