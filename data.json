@@ -1,13 +1,23 @@
 {
-  "count": 1,
+  "count": 2,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SOMA",
+      "neighborhoods": [
+        "TURGUTALP"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "24.05.2026 17:04",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "SARUHANLI",
       "neighborhoods": [
         "KOYUNCU"
       ],
-      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
       "start": "24.05.2026 12:12",
       "end": "Süre Verilememekte"
     }
