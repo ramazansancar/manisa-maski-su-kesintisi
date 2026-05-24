@@ -1,6 +1,16 @@
 {
-  "count": 4,
+  "count": 3,
   "data": [
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "KOYUNCU"
+      ],
+      "description": "GEDİZ ELEKTRİK AŞ BAKIM ONARIM ÇALIŞMASI Sebebiyle Su Kesintisi",
+      "start": "24.05.2026 12:12",
+      "end": "Süre Verilememekte"
+    },
     {
       "city": "Manisa",
       "district": "ŞEHZADELER",
@@ -9,26 +19,6 @@
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
       "start": "24.05.2026 10:19",
-      "end": "Süre Verilememekte"
-    },
-    {
-      "city": "Manisa",
-      "district": "YUNUSEMRE",
-      "neighborhoods": [
-        "MURADİYE"
-      ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "24.05.2026 10:18",
-      "end": "24.05.2026 12:18"
-    },
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "TURGUTALP"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.05.2026 09:43",
       "end": "Süre Verilememekte"
     },
     {
