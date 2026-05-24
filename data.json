@@ -1,16 +1,6 @@
 {
-  "count": 2,
+  "count": 1,
   "data": [
-    {
-      "city": "Manisa",
-      "district": "SOMA",
-      "neighborhoods": [
-        "TURGUTALP"
-      ],
-      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.05.2026 17:04",
-      "end": "Süre Verilememekte"
-    },
     {
       "city": "Manisa",
       "district": "SARUHANLI",
