@@ -1,15 +1,4 @@
 {
-  "count": 1,
-  "data": [
-    {
-      "city": "Manisa",
-      "district": "SARUHANLI",
-      "neighborhoods": [
-        "KOYUNCU"
-      ],
-      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
-      "start": "24.05.2026 12:12",
-      "end": "Süre Verilememekte"
-    }
-  ]
+  "count": 0,
+  "data": []
 }
