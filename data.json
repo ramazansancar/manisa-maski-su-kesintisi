@@ -1,4 +1,18 @@
 {
-  "count": 0,
-  "data": []
+  "count": 1,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "ALAŞEHİR",
+      "neighborhoods": [
+        "BEŞEYLÜL",
+        "SARISU",
+        "SOĞUKSU",
+        "YENİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "25.05.2026 20:35",
+      "end": "25.05.2026 23:59"
+    }
+  ]
 }
