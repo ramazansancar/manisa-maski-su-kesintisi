@@ -1,4 +1,40 @@
 {
-  "count": 0,
-  "data": []
+  "count": 3,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "YUNUSEMRE",
+      "neighborhoods": [
+        "UNCUBOZKÖY"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "25.05.2026 11:59",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "ŞEHZADELER",
+      "neighborhoods": [
+        "1.ANAFARTALAR",
+        "2.ANAFARTALAR",
+        "AHMET BEDEVİ",
+        "PEKER",
+        "UTKU",
+        "ÇARŞI"
+      ],
+      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
+      "start": "25.05.2026 09:49",
+      "end": "Süre Verilememekte"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "MÜTEVELLİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "25.05.2026 09:16",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
