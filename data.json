@@ -3,12 +3,12 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "TURGUTLU",
+      "district": "SARUHANLI",
       "neighborhoods": [
-        "SELVİLİTEPE"
+        "AZİMLİ"
       ],
       "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
-      "start": "29.05.2026 10:49",
+      "start": "29.05.2026 14:47",
       "end": "Süre Verilememekte"
     }
   ]
