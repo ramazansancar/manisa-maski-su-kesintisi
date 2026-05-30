@@ -3,14 +3,13 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "YUNUSEMRE",
+      "district": "ALAŞEHİR",
       "neighborhoods": [
-        "KUYUALAN",
-        "TOPÇUASIM"
+        "BARIŞ"
       ],
-      "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.05.2026 12:53",
-      "end": "30.05.2026 14:53"
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "30.05.2026 15:01",
+      "end": "30.05.2026 16:27"
     },
     {
       "city": "Manisa",
