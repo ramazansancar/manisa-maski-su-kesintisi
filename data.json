@@ -3,15 +3,14 @@
   "data": [
     {
       "city": "Manisa",
-      "district": "ŞEHZADELER",
+      "district": "YUNUSEMRE",
       "neighborhoods": [
-        "AHMET BEDEVİ",
-        "KAZIM KARABEKİR",
-        "NURLUPINAR"
+        "KUYUALAN",
+        "TOPÇUASIM"
       ],
       "description": "ANA BORU BİRLEŞİMİ Sebebiyle Su Kesintisi",
-      "start": "30.05.2026 11:56",
-      "end": "30.05.2026 13:56"
+      "start": "30.05.2026 12:53",
+      "end": "30.05.2026 14:53"
     },
     {
       "city": "Manisa",
