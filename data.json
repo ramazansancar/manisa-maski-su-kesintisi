@@ -1,4 +1,33 @@
 {
-  "count": 0,
-  "data": []
+  "count": 2,
+  "data": [
+    {
+      "city": "Manisa",
+      "district": "AKHİSAR",
+      "neighborhoods": [
+        "EFENDİ",
+        "KETHÜDA",
+        "REŞAT BEY",
+        "SEYİT AHMET",
+        "ULU CAMİİ"
+      ],
+      "description": "ANA ŞEBEKE ARIZASI Sebebiyle Su Kesintisi",
+      "start": "31.05.2026 10:23",
+      "end": "31.05.2026 12:23"
+    },
+    {
+      "city": "Manisa",
+      "district": "SARUHANLI",
+      "neighborhoods": [
+        "ATATÜRK",
+        "CENGİZ TOPEL",
+        "CUMHURİYET",
+        "İSTASYON",
+        "SARUHAN"
+      ],
+      "description": "ELEKTRİK ARIZASI Sebebiyle Su Kesintisi",
+      "start": "31.05.2026 09:49",
+      "end": "Süre Verilememekte"
+    }
+  ]
 }
